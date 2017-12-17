@@ -1,0 +1,689 @@
+playerID,birthYear,birthMonth,birthDay,birthCountry,birthState,birthCity,deathYear,deathMonth,deathDay,deathCountry,deathState,deathCity,nameFirst,nameLast,nameGiven,weight,height,bats,throws,debut,finalGame,retroID,bbrefID
+aguilje01,1990,6,30,Venezuela,Aragua,Maracay,,,,,,,Jesus,Aguilar,Jesus Alexander,250,75,R,R,15/05/14,01/10/16,aguij001,aguilje01
+ahmedni01,1990,3,15,USA,MA,Springfield,,,,,,,Nick,Ahmed,Nicholas Mark,195,74,R,R,29/06/14,22/07/16,ahmen001,ahmedni01
+altuvjo01,1990,5,6,Venezuela,Aragua,Maracay,,,,,,,Jose,Altuve,Jose Carlos,165,66,R,R,20/07/11,02/10/16,altuj001,altuvjo01
+alvarhe01,1990,4,18,Venezuela,Carabobo,Valencia,,,,,,,Henderson,Alvarez,Henderson Javier,205,72,R,R,10/08/11,22/05/15,alvah001,alvarhe01
+anderco01,1990,9,14,USA,CA,Quincy,,,,,,,Cody,Anderson,Cody Andrew,240,76,R,R,21/06/15,28/09/16,andec002,anderco01
+armstsh01,1990,9,11,USA,NC,New Bern,,,,,,,Shawn,Armstrong,Shawn Michael,225,74,R,R,08/08/15,27/09/16,armss001,armstsh01
+arojo01,1990,10,10,D.R.,La Vega,La Vega,,,,,,,Jonathan,Aro,Jonathan Arturo,235,72,R,R,25/06/15,20/06/16,aro-j001,arojo01
+arrueer01,1990,3,25,Cuba,Cienfuegos,Cienfuegos,,,,,,,Erisbel,Arruebarrena,Barbaro Erisbel,230,73,R,R,23/05/14,28/09/14,arrue001,arrueba01
+ascheco01,1990,6,30,USA,MO,St. Charles,,,,,,,Cody,Asche,Cody James,205,73,L,R,30/07/13,02/10/16,aschc001,ascheco01
+averyxa01,1990,1,1,USA,GA,Atlanta,,,,,,,Xavier,Avery,Xavier Tyrone,190,72,L,L,13/05/12,01/10/12,averx001,averyxa01
+bandyje01,1990,3,26,USA,CA,West Hills,,,,,,,Jett,Bandy,Jett Adam,235,76,R,R,14/09/15,02/10/16,bandj001,bandyje01
+barneja01,1990,4,14,USA,FL,St. Petersburg,,,,,,,Jacob,Barnes,Jacob Andrew,220,74,R,R,03/06/16,01/10/16,barnj002,barneja01
+barnema01,1990,6,17,USA,CT,Danbury,,,,,,,Matt,Barnes,Matthew D.,210,76,R,R,09/09/14,02/10/16,barnm001,barnema01
+baronst01,1990,12,7,USA,FL,Miami,,,,,,,Steve,Baron,Steven Phillip,205,72,R,R,09/09/15,25/09/15,baros002,baronst01
+barraky01,1990,5,23,USA,CA,Santa Clara,,,,,,,Kyle,Barraclough,Kyle David,225,75,R,R,07/08/15,26/09/16,barrk002,barraky01
+beckch02,1990,9,4,USA,GA,Commerce,,,,,,,Chris,Beck,Christopher Michael,225,75,R,R,28/05/15,02/10/16,beckc002,beckch02
+beckhti01,1990,1,27,USA,GA,Griffin,,,,,,,Tim,Beckham,Timothy Lamar,195,72,R,R,19/09/13,31/08/16,beckt001,beckhti01
+biagijo01,1990,5,29,USA,CA,Redwood City,,,,,,,Joe,Biagini,Joseph Carlo,240,77,R,R,08/04/16,02/10/16,biagj001,biagijo01
+blachty01,1990,10,20,USA,CO,Denver,,,,,,,Ty,Blach,Tyson Michael,200,74,R,L,05/09/16,01/10/16,blact002,blachty01
+bonilli01,1990,6,18,D.R.,Samana,Samana,,,,,,,Lisalverto,Bonilla,Lisalverto,225,72,B,R,04/09/14,24/09/14,bonil001,bonilli01
+bradlja02,1990,4,19,USA,VA,Richmond,,,,,,,Jackie,Bradley,Jackie,200,70,L,R,01/04/13,02/10/16,bradj001,bradlja02
+bradlje01,1990,6,12,USA,AL,Huntsville,,,,,,,Jed,Bradley,Jedidiah Custer,225,75,L,L,03/09/16,24/09/16,bradj002,bradlje01
+brookaa01,1990,4,27,USA,CA,Montclair,,,,,,,Aaron,Brooks,Aaron Lee,225,76,R,R,03/05/14,02/10/15,brooa001,brookaa01
+broxtke01,1990,5,7,USA,FL,Lakeland,,,,,,,Keon,Broxton,Keon Darell,195,75,R,R,21/09/15,16/09/16,broxk001,broxtke01
+burgoen02,1990,11,23,Panama,Panama,Panama,,,,,,,Enrique,Burgos,Enrique,250,76,R,R,29/04/15,27/09/16,burge002,burgoen02
+burnsan01,1990,8,7,USA,SC,Greenville,,,,,,,Andy,Burns,Andrew David,190,74,R,R,09/05/16,19/07/16,burna003,burnsan01
+cappsca01,1990,8,7,USA,NC,Kinston,,,,,,,Carter,Capps,Carter Lewis,220,77,R,R,03/08/12,02/08/15,cappc001,cappsca01
+castrst01,1990,3,24,D.R.,Monte Cristi,Monte Cristi,,,,,,,Starlin,Castro,Starlin DeJesus,230,74,R,R,07/05/10,01/10/16,casts001,castrst01
+cecilda01,1990,6,22,USA,CA,Tracy,,,,,,,Darrell,Ceciliani,Darrell Albert,220,73,L,L,19/05/15,26/09/16,cecid001,cecilda01
+cervehu01,1990,1,3,USA,TX,Baytown,,,,,,,Hunter,Cervenka,Colby Hunter,245,73,L,L,12/04/16,02/10/16,cervh001,cervehu01
+chafian01,1990,6,17,USA,OH,Kettering,,,,,,,Andrew,Chafin,Andrew Gregory,225,74,R,L,13/08/14,03/07/16,chafa001,chafian01
+chargjt01,1990,12,3,USA,LA,Sulphur,,,,,,,J. T.,Chargois,Jon Thomas,200,75,B,R,11/06/16,01/10/16,charj001,chargjt01
+clevimi01,1990,12,21,USA,FL,Jacksonville,,,,,,,Mike,Clevinger,Michael Anthony,210,76,R,R,18/05/16,01/10/16,clevm001,clevimi01
+coatsja01,1990,2,24,USA,TX,Dallas,,,,,,,Jason,Coats,Jason Leavell,200,74,R,R,04/06/16,29/09/16,coatj001,coatsja01
+colege01,1990,9,8,USA,CA,Newport Beach,,,,,,,Gerrit,Cole,Gerrit Alan,220,76,R,R,11/06/13,12/09/16,coleg001,colege01
+collity01,1990,6,6,USA,TX,Lubbock,,,,,,,Tyler,Collins,Tyler James,215,71,L,L,31/03/14,27/09/16,collt002,collity01
+colonjo01,1990,2,18,P.R.,,Caguas,,,,,,,Joseph,Colon,Joseph,180,72,R,R,08/07/16,28/09/16,coloj002,colonjo01
+conlead01,1990,5,24,USA,WA,Redmond,,,,,,,Adam,Conley,Adam Michael,200,75,L,L,10/06/15,26/09/16,conla001,conlead01
+cooneti01,1990,12,19,USA,PA,Collegeville,,,,,,,Tim,Cooney,Timothy Manus,195,75,L,L,30/04/15,24/07/15,coont001,cooneti01
+corcida01,1990,8,26,D.R.,Azua,Azua,,,,,,,Daniel,Corcino,Daniel,210,71,R,R,26/08/14,24/09/14,corcd001,corcida01
+cosarja01,1990,5,25,USA,TX,League City,,,,,,,Jarred,Cosart,Jarred Lynn,205,75,R,R,12/07/13,24/09/16,cosaj001,cosarja01
+croncj01,1990,1,5,USA,CA,Fullerton,,,,,,,C. J.,Cron,Christopher John,235,76,R,R,03/05/14,02/10/16,cronc002,croncj01
+cuevawi01,1990,10,14,Venezuela,Distrito Federal,Caracas,,,,,,,William,Cuevas,William Enrique,215,74,R,R,21/04/16,26/06/16,cuevw001,cuevawi01
+deckeja01,1990,2,23,USA,AZ,Phoenix,,,,,,,Jaff,Decker,Jaff Kyle,190,69,L,L,20/06/13,02/10/16,deckj001,deckeja01
+delareu01,1990,2,24,D.R.,Santiago,Santiago,,,,,,,Eury,De La Rosa,Eury,165,69,L,L,14/07/13,26/09/14,delae002,delareu01
+delgara01,1990,2,9,Panama,Los Santos,Las Tablas,,,,,,,Randall,Delgado,Randall Enrique,220,76,R,R,17/06/11,02/10/16,delgr001,delgara01
+dermoma01,1990,7,4,USA,IA,Norwalk,,,,,,,Matt,Dermody,Matthew Phillip,190,77,R,L,03/09/16,14/09/16,dermm001,dermoma01
+desclan01,1990,4,18,USA,NJ,Freehold,,,,,,,Anthony,DeSclafani,Anthony James,200,73,R,R,14/05/14,28/09/16,desca001,desclan01
+devench02,1990,11,13,USA,CA,Cerritos,,,,,,,Chris,Devenski,Christopher Michael,210,75,R,R,08/04/16,27/09/16,devec001,devench02
+diazal02,1990,8,1,Cuba,,Santa Clara,,,,,,,Aledmys,Diaz,Aledmys,195,73,R,R,05/04/16,02/10/16,diaza003,diazal02
+diazel01,1990,11,17,Venezuela,Zulia,Maracaibo,,,,,,,Elias,Diaz,Elias David,210,72,R,R,12/09/15,24/07/16,diaze005,diazel01
+dickeal01,1990,5,26,USA,CA,Poway,,,,,,,Alex,Dickerson,Alexander Ross,235,75,L,L,06/08/15,02/10/16,dicka001,dickeal01
+dominjo01,1990,8,7,D.R.,San Pedro de Macoris,San Pedro de Macoris,,,,,,,Jose,Dominguez,Jose Alfredo,200,72,R,R,30/06/13,01/10/16,domij002,dominjo01
+duffety01,1990,12,27,USA,TX,Houston,,,,,,,Tyler,Duffey,Tyler Blinn,220,75,R,R,05/08/15,30/09/16,dufft001,duffety01
+eickhje01,1990,7,2,USA,IN,Evansville,,,,,,,Jerad,Eickhoff,Jerad Joseph,245,76,R,R,21/08/15,02/10/16,eickj001,eickhje01
+ellinbr02,1990,8,4,USA,FL,Gainesville,,,,,,,Brian,Ellington,Brian Michael,215,75,R,R,03/08/15,02/10/16,ellib001,ellinbr02
+eovalna01,1990,2,13,USA,TX,Houston,,,,,,,Nathan,Eovaldi,Nathan Edward,225,74,R,R,06/08/11,10/08/16,eovan001,eovalna01
+erlinro01,1990,10,8,USA,CA,Oakland,,,,,,,Robbie,Erlin,Robert Joseph,190,72,R,L,30/04/13,17/04/16,erlir001,erlinro01
+eschja01,1990,3,27,USA,MN,St. Paul,,,,,,,Jake,Esch,Jacob Otto,205,75,R,R,31/08/16,13/09/16,eschj001,eschja01
+ferreje01,1990,11,23,USA,NC,Charlotte,,,,,,,Jeff,Ferrell,Jeffrey Alan,205,76,R,R,04/07/15,04/10/15,ferrj001,ferreje01
+florody01,1990,12,27,USA,CA,Merced,,,,,,,Dylan,Floro,Dylan Lee,175,74,L,R,07/07/16,14/08/16,flord002,florody01
+flynnbr01,1990,4,19,USA,OK,Tulsa,,,,,,,Brian,Flynn,Brian A.,250,79,L,L,04/09/13,30/09/16,flynb001,flynnbr01
+fontwi01,1990,5,24,Venezuela,Vargas,La Guaira,,,,,,,Wilmer,Font,Wilmer,265,76,R,R,18/09/12,14/07/13,fontw001,fontwi01
+garcefr01,1990,1,17,D.R.,San Cristobal,San Cristobal,,,,,,,Frank,Garces,Frank Yeury,175,71,L,L,19/08/14,04/10/15,garcf003,garcefr01
+garciyi01,1990,8,18,D.R.,Espaillat,Moca,,,,,,,Yimi,Garcia,Yimi,220,73,R,R,01/09/14,22/04/16,garcy001,garciyi01
+gennesc01,1990,5,1,USA,OH,Cincinnati,,,,,,,Scooter,Gennett,Ryan Joseph,185,70,L,R,03/06/13,02/10/16,genns001,gennesc01
+gileske01,1990,9,20,USA,NM,Albuquerque,,,,,,,Ken,Giles,Kenneth Robert,205,74,R,R,12/06/14,01/10/16,gilek001,gileske01
+gilmase01,1990,5,8,USA,CA,Thousand Oaks,,,,,,,Sean,Gilmartin,Sean Patrick,200,74,L,L,10/04/15,24/09/16,gilms001,gilmase01
+givenmy01,1990,5,13,USA,FL,Tampa,,,,,,,Mychal,Givens,Mychal Antonio,210,72,R,R,24/06/15,01/10/16,givem001,givenmy01
+godleza01,1990,4,21,USA,SC,Bamberg,,,,,,,Zack,Godley,Zachary Thomas,240,75,R,R,23/07/15,01/10/16,godlz001,godleza01
+gonzami04,1990,12,3,Venezuela,Nueva Esparta,Porlamar,,,,,,,Miguel,Gonzalez,Miguel Antonio,220,71,R,R,10/09/13,28/09/13,gonzm004,gonzami04
+goodwbr01,1990,11,2,USA,NC,Rocky Mount,,,,,,,Brian,Goodwin,Brian Christopher,205,72,L,R,06/08/16,01/10/16,goodb001,goodwbr01
+gosean01,1990,8,10,USA,CA,Bellflower,,,,,,,Anthony,Gose,Anthony Robert,190,73,L,L,17/07/12,15/05/16,gosea001,gosean01
+grahajr01,1990,1,14,USA,CA,Livermore,,,,,,,J. R.,Graham,Johnathan Ryan,195,71,R,R,06/04/15,04/05/16,grahj002,grahajr01
+graveke01,1990,12,21,USA,AL,Alexander City,,,,,,,Kendall,Graveman,Kendall Chase,200,74,R,R,05/09/14,29/09/16,gravk001,graveke01
+gregodi01,1990,2,18,Netherlands,,Amsterdam,,,,,,,Didi,Gregorius,Mariekson Julius,205,75,L,R,05/09/12,02/10/16,gregd001,gregodi01
+guaipma01,1990,8,11,Venezuela,Anzoategui,Barcelona,,,,,,,Mayckol,Guaipe,Mayckol Martin,235,76,R,R,01/06/15,14/05/16,guaim001,guaipma01
+hamilbi02,1990,9,9,USA,MS,Collins,,,,,,,Billy,Hamilton,Billy R.,160,72,B,R,03/09/13,04/09/16,hamib001,hamilbi02
+handbr01,1990,3,20,USA,MN,Minneapolis,,,,,,,Brad,Hand,Bradley Richard,220,75,L,L,07/06/11,02/10/16,handb001,handbr01
+hanigmi01,1990,12,23,USA,CA,Mountain View,,,,,,,Mitch,Haniger,Mitchell Evan,215,74,R,R,16/08/16,02/10/16,hanim001,hanigmi01
+hartdo01,1990,9,6,USA,TX,Bedford,,,,,,,Donnie,Hart,Donnie Scott,180,71,L,L,17/07/16,01/10/16,hartd002,hartdo01
+hathast01,1990,9,13,USA,MA,Acton,,,,,,,Steve,Hathaway,Steven Ryland,185,73,L,L,31/07/16,02/10/16,haths001,hathast01
+heathsl01,1990,9,28,USA,TX,Texarkana,,,,,,,Slade,Heathcott,Zachary Slade,205,73,L,L,20/05/15,03/10/15,heats001,heathsl01
+hernace02,1990,5,23,Venezuela,Carabobo,Valencia,,,,,,,Cesar,Hernandez,Cesar Augusto,160,70,B,R,29/05/13,02/10/16,hernc005,hernace02
+hoeslj01,1990,3,5,USA,DC,Washington,,,,,,,L. J.,Hoes,Jerome O'Bryan,200,72,R,R,25/09/12,23/07/15,hoesl001,hoeslj01
+hoodde01,1990,4,3,USA,AL,Mobile,,,,,,,Destin,Hood,Destin Dwane,205,74,R,R,02/09/16,02/10/16,hoodd001,hoodde01
+hutchdr01,1990,8,22,USA,FL,Lakeland,,,,,,,Drew,Hutchison,Andrew Scott,205,75,L,R,21/04/12,30/09/16,hutcd001,hutchdr01
+iglesjo01,1990,1,5,Cuba,La Habana,La Habana,,,,,,,Jose,Iglesias,Jose Antonio,185,71,R,R,08/05/11,02/10/16,iglej001,iglesjo01
+iglesra01,1990,1,4,Cuba,,Isla de la Juventud,,,,,,,Raisel,Iglesias,Raisel,185,74,R,R,12/04/15,02/10/16,igler001,iglesra01
+inciaen01,1990,10,29,Venezuela,Zulia,Maracaibo,,,,,,,Ender,Inciarte,Ender David,190,71,L,L,02/05/14,02/10/16,incie001,inciaen01
+johnsbr02,1990,12,7,USA,FL,Lakeland,,,,,,,Brian,Johnson,Christopher Brian,235,76,L,L,21/07/15,21/07/15,johnb004,johnsbr02
+johnsmi04,1990,12,18,USA,IN,Indianapolis,,,,,,,Micah,Johnson,Micah Drew,210,72,L,R,06/04/15,30/09/16,johnm006,johnsmi04
+kiermke01,1990,4,22,USA,IN,Fort Wayne,,,,,,,Kevin,Kiermaier,Kevin James,215,73,L,R,30/09/13,01/10/16,kierk001,kiermke01
+kochma01,1990,11,2,USA,IA,Cherokee,,,,,,,Matt,Koch,Matthew David,215,75,L,R,09/09/16,02/10/16,kochm001,kochma01
+kubitky01,1990,7,15,USA,TX,Arlington,,,,,,,Kyle,Kubitza,Kyle Andrew,210,75,L,R,10/06/15,02/10/15,kubik001,kubitky01
+lakeju01,1990,3,27,D.R.,San Pedro de Macoris,San Pedro de Macoris,,,,,,,Junior,Lake,Junior Osvaldo,230,74,R,R,19/07/13,15/08/16,lakej001,lakeju01
+lambja01,1990,10,9,USA,WA,Seattle,,,,,,,Jake,Lamb,Jacob Ryan,215,75,L,R,07/08/14,02/10/16,lambj001,lambja01
+lambjo02,1990,7,10,USA,CA,La Palma,,,,,,,John,Lamb,John Michael,205,76,L,L,14/08/15,16/07/16,lambj002,lambjo02
+lawde01,1990,9,14,USA,PA,Pittsburgh,,,,,,,Derek,Law,Derek Robert,210,74,R,R,15/04/16,30/09/16,law-d001,lawde01
+lawribr01,1990,1,18,CAN,BC,Langley,,,,,,,Brett,Lawrie,Brett Russell,210,72,R,R,05/08/11,21/07/16,lawrb002,lawribr01
+leathja01,1990,7,14,USA,MA,Beverly,,,,,,,Jack,Leathersich,John Victor,205,72,R,L,29/04/15,20/06/15,leatj001,leathja01
+lylesjo01,1990,10,19,USA,SC,Hartsville,,,,,,,Jordan,Lyles,Jordan Horton,230,76,R,R,31/05/11,01/10/16,lylej001,lylesjo01
+marksma01,1990,8,25,USA,OH,Cincinnati,,,,,,,Matt,Marksberry,Matthew Gates,180,73,L,L,31/07/15,30/07/16,markm001,marksma01
+marrede01,1990,8,25,USA,FL,Miami,,,,,,,Deven,Marrero,Deven Sommer,195,73,R,R,28/06/15,29/09/16,marrd001,marrede01
+marshbr01,1990,3,22,USA,TX,Highlands,,,,,,,Brett,Marshall,Brett Edward,195,73,R,R,15/05/13,29/09/13,marsb001,marshbr01
+marshev01,1990,4,18,USA,CA,Sunnyvale,,,,,,,Evan,Marshall,Evan Patrick,225,74,R,R,06/05/14,06/08/16,marse001,marshev01
+martini01,1990,8,5,USA,FL,Miami,,,,,,,Nick,Martinez,Nicholas Andres,200,73,L,R,05/04/14,25/09/16,martn002,martini01
+matzety01,1990,10,19,USA,CA,Mission Viejo,,,,,,,Tyler,Matzek,Tyler Alexander,230,75,L,L,11/06/14,06/05/15,matzt001,matzety01
+maurebr01,1990,7,3,USA,CA,Newport Beach,,,,,,,Brandon,Maurer,Brandon Eugene,230,77,R,R,04/04/13,28/09/16,maurb001,maurebr01
+maxwebr01,1990,12,20,Germany,Hesse,Wiesbaden,,,,,,,Bruce,Maxwell,Bruce Tyrone,250,73,L,R,23/07/16,02/10/16,maxwb001,maxwebr01
+mccanja02,1990,6,13,USA,CA,Santa Barbara,,,,,,,James,McCann,James Thomas,210,74,R,R,01/09/14,02/10/16,mccaj001,mccanja02
+mckiran01,1990,2,8,USA,TX,Austin,,,,,,,Andrew,McKirahan,Andrew David,200,74,R,L,12/04/15,25/09/15,mckia001,mckiran01
+mendero01,1990,7,25,D.R.,San Pedro de Macoris,San Pedro de Macoris,,,,,,,Roman,Mendez,Roman Junior,235,75,R,R,08/07/14,02/10/15,mendr002,mendero01
+merceme01,1990,11,2,D.R.,,El Seibo,,,,,,,Melvin,Mercedes,Melvin,250,75,R,R,15/08/14,15/08/14,mercm001,merceme01
+meyeral01,1990,1,3,USA,IN,Greensburg,,,,,,,Alex,Meyer,Alex John,225,81,R,R,26/06/15,28/09/16,meyea001,meyeral01
+millesh01,1990,10,10,USA,TX,Houston,,,,,,,Shelby,Miller,Shelby Charles,225,75,R,R,05/09/12,28/09/16,mills001,millesh01
+minayju01,1990,9,18,D.R.,Puerto Plata,Maimon,,,,,,,Juan,Minaya,Juan Gustavo,210,76,R,R,01/09/16,02/10/16,minaj001,minayju01
+montera01,1990,10,17,D.R.,San Cristobal,Higuerito,,,,,,,Rafael,Montero,Rafael,185,72,R,R,14/05/14,26/09/16,montr004,montera01
+morgaad01,1990,2,27,USA,FL,Tampa,,,,,,,Adam,Morgan,Adam Christopher,200,73,L,L,21/06/15,28/09/16,morga001,morgaad01
+muncyma01,1990,8,25,USA,TX,Midland,,,,,,,Max,Muncy,Maxwell Steven,210,72,L,R,25/04/15,29/09/16,muncm001,muncyma01
+murraco01,1990,4,22,USA,KS,Overland Park,,,,,,,Colton,Murray,Colton James,195,72,R,R,02/09/15,02/10/16,murrc002,murraco02
+myerswi01,1990,12,10,USA,NC,Thomasville,,,,,,,Wil,Myers,William Bradford,205,75,R,R,18/06/13,02/10/16,myerw001,myerswi01
+nesbian01,1990,12,4,Venezuela,Aragua,Maracay,,,,,,,Angel,Nesbitt,Angel Ladimir,240,73,R,R,08/04/15,10/06/15,nesba001,nesbian01
+obergsc01,1990,3,13,USA,MA,Tewksbury,,,,,,,Scott,Oberg,Scott Michael,205,74,R,R,14/04/15,19/08/16,obers001,obergsc01
+obriepe04,1990,7,15,USA,FL,Hialeah,,,,,,,Peter,O'Brien,Peter Robert,235,76,R,R,11/09/15,29/09/16,obrip002,obriepe01
+odorija01,1990,3,27,USA,IL,Breese,,,,,,,Jake,Odorizzi,Jacob Todd,190,74,R,R,23/09/12,01/10/16,odorj001,odorija01
+olmosed01,1990,4,12,USA,CA,Sylmar,,,,,,,Edgar,Olmos,Edgar,220,76,L,L,03/06/13,04/09/15,olmoe001,olmosed01
+ortizjo05,1990,8,13,Venezuela,Distrito Federal,Caracas,,,,,,,Joe,Ortiz,Joseph,175,67,L,L,31/03/13,20/09/13,ortij004,ortizjo05
+ozunama01,1990,11,12,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Marcell,Ozuna,Marcell,225,73,R,R,30/04/13,30/09/16,ozunm001,ozunama01
+panikjo01,1990,10,30,USA,NY,Yonkers,,,,,,,Joe,Panik,Joseph Matthew,190,73,L,R,22/05/14,02/10/16,panij002,panikjo01
+penafe01,1990,2,25,D.R.,San Pedro de Macoris,San Pedro de Macoris,,,,,,,Felix,Pena,Felix Ricardo,185,74,R,R,19/08/16,27/09/16,penaf002,penafe01
+perezca02,1990,10,27,Venezuela,Carabobo,Valencia,,,,,,,Carlos,Perez,Carlos Eduardo,210,72,R,R,05/05/15,02/10/16,perec003,perezca02
+perezeu01,1990,5,30,D.R.,Distrito Nacional,San Luis,,,,,,,Eury,Perez,Eury Eduardo,190,72,R,R,01/09/12,23/08/15,peree003,perezeu01
+perezsa02,1990,5,10,Venezuela,Carabobo,Valencia,,,,,,,Salvador,Perez,Salvador Johan,240,75,R,R,10/08/11,02/10/16,peres002,perezsa02
+peterja01,1990,5,9,USA,LA,Lake Charles,,,,,,,Jace,Peterson,Jace Ryan,215,72,L,R,25/04/14,02/10/16,petej002,peterja01
+pettijo02,1990,7,19,USA,CA,Placentia,,,,,,,Jonathan,Pettibone,Harry Jonathan,230,77,L,R,22/04/13,18/04/14,pettj001,pettijo02
+pimenst01,1990,2,1,D.R.,San Cristobal,San Cristobal,,,,,,,Stolmy,Pimentel,Stolmy Ramon,230,75,R,R,04/09/13,12/05/15,pimes001,pimenst01
+poundbr01,1990,9,26,USA,CA,Riverside,,,,,,,Brooks,Pounders,Brooks Casey,265,77,R,R,05/07/16,01/10/16,pounb001,poundbr01
+puigya01,1990,12,7,Cuba,Cienfuegos,Cienfuegos,,,,,,,Yasiel,Puig,Yasiel,240,74,R,R,03/06/13,02/10/16,puigy001,puigya01
+purkema01,1990,7,17,USA,TX,Nacogdoches,,,,,,,Matt,Purke,Matthew Taylor,215,76,L,L,20/05/16,29/06/16,purkm001,purkema01
+ramirer02,1990,5,2,Nicaragua,Rivas,Rivas,,,,,,,Erasmo,Ramirez,Erasmo Jose,200,71,R,R,09/04/12,02/10/16,ramie004,ramirer02
+ramirjo02,1990,1,21,D.R.,San Cristobal,Yaguate,,,,,,,Jose,Ramirez,Jose Altagracia,215,73,R,R,04/06/14,02/10/16,ramij004,ramirjo02
+reaco01,1990,7,1,USA,IA,Cascade,,,,,,,Colin,Rea,Colin D.,225,77,R,R,11/08/15,30/07/16,rea-c001,reaco01
+reedch01,1990,5,20,United Kingdom,London,London,,,,,,,Chris,Reed,Christopher William,225,75,L,L,01/08/15,03/08/15,reedc001,reedch01
+rendoan01,1990,6,6,USA,TX,Houston,,,,,,,Anthony,Rendon,Anthony Michael,210,73,R,R,21/04/13,01/10/16,renda001,rendoan01
+reynoma03,1990,12,3,USA,OK,Tulsa,,,,,,,Matt,Reynolds,Matthew William,200,73,R,R,17/05/16,02/10/16,reynm003,reynoma03
+riefecj01,1990,1,30,USA,NY,Yonkers,,,,,,,C. J.,Riefenhauser,Charles Joseph,195,72,L,L,19/04/14,03/10/15,riefc001,riefecj01
+robleha01,1990,8,13,D.R.,Monsenor Nouel,Bonao,,,,,,,Hansel,Robles,Hansel Manuel,185,71,R,R,24/04/15,01/10/16,roblh001,robleha01
+rodgebr01,1990,9,17,USA,TX,Richmond,,,,,,,Brady,Rodgers,Brady Paul,210,74,R,R,03/09/16,02/10/16,rodgb001,rodgebr01
+rodrihe04,1990,2,9,Venezuela,Aragua,Maracay,,,,,,,Henry,Rodriguez,Henry Alejandro,200,68,B,R,02/09/12,29/09/13,rodrh003,rodrihe04
+rodriwi02,1990,3,2,Venezuela,Carabobo,Puerto Cabello,,,,,,,Wilking,Rodriguez,Wilking Jose,180,73,R,R,03/06/14,06/06/14,rodrw003,rodriwi02
+rogerta01,1990,12,17,USA,CO,Littleton,,,,,,,Taylor,Rogers,Taylor Allen,170,75,L,L,14/04/16,02/10/16,roget001,rogerta01
+rondobr01,1990,12,9,Venezuela,Carabobo,Valencia,,,,,,,Bruce,Rondon,Bruce,275,75,R,R,25/04/13,02/10/16,rondb001,rondobr01
+rosentr01,1990,5,29,USA,MO,Lee's Summit,,,,,,,Trevor,Rosenthal,Trevor Jordan,230,74,R,R,18/07/12,01/10/16,roset001,rosentr01
+rothmi01,1990,2,15,USA,SC,Greenville,,,,,,,Michael,Roth,Michael Thomas,210,73,L,L,13/04/13,04/07/16,rothm001,rothmi01
+ruary01,1990,3,11,USA,OH,Amherst,,,,,,,Ryan,Rua,Ryan Anthony,205,74,R,R,29/08/14,02/10/16,rua-r001,ruary01
+sadleca02,1990,7,13,USA,OK,Stillwater,,,,,,,Casey,Sadler,Casey Scott,225,76,R,R,02/05/14,12/04/15,sadlc002,sadleca02
+salazda01,1990,1,11,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Danny,Salazar,Daniel Dariel,195,72,R,R,11/07/13,09/09/16,salad001,salazda01
+santada01,1990,11,7,D.R.,Monte Plata,Monte Plata,,,,,,,Danny,Santana,Daniel Ernesto,185,71,B,R,05/05/14,28/08/16,santd001,santada01
+saupowa01,1990,1,16,Australia,Western Australia,Perth,,,,,,,Warwick,Saupold,Warwick Anthony,195,73,R,R,14/05/16,12/08/16,saupw001,saupowa01
+schebsc01,1990,10,6,USA,IA,Cedar Rapids,,,,,,,Scott,Schebler,Scott Anthony,225,72,L,R,05/06/15,02/10/16,sches001,schebsc01
+schuspa01,1990,10,30,USA,FL,New Port Richey,,,,,,,Patrick,Schuster,Patrick James,190,74,R,L,05/07/16,01/10/16,schup001,schuspa01
+segurje01,1990,3,17,D.R.,San Juan,San Juan,,,,,,,Jean,Segura,Jean Carlos Enrique,205,70,R,R,24/07/12,02/10/16,seguj002,segurje01
+semiema01,1990,9,17,USA,CA,San Francisco,,,,,,,Marcus,Semien,Marcus Andrew,195,72,R,R,04/09/13,02/10/16,semim001,semiema01
+shawtr01,1990,4,16,USA,OH,Washington Court House,,,,,,,Travis,Shaw,Travis R.,230,76,L,R,08/05/15,01/10/16,shawt001,shawtr01
+shrevch01,1990,7,12,USA,NV,Las Vegas,,,,,,,Chasen,Shreve,Chasen Dean,195,76,L,L,19/07/14,30/09/16,shrec001,shrevch01
+simmosh01,1990,9,3,USA,MO,Cape Girardeau,,,,,,,Shae,Simmons,Shae Austin,190,71,R,R,31/05/14,18/09/16,simms001,simmosh01
+skipwky01,1990,3,1,USA,CA,Riverside,,,,,,,Kyle,Skipworth,Kyle Trent,230,76,L,R,10/04/13,11/05/13,skipk001,skipwky01
+smithbu03,1990,4,12,USA,TX,San Antonio,,,,,,,Burch,Smith,Burch Taylor,215,76,R,R,11/05/13,27/09/13,smitb005,smithbu03
+smithja06,1990,6,2,USA,SC,North Augusta,,,,,,,Jake,Smith,Jacob Matthew,190,76,R,R,07/09/16,29/09/16,smitj005,smithja06
+stitema01,1990,5,28,USA,MO,Festus,,,,,,,Matt,Stites,Matthew Steven,205,71,L,R,19/06/14,02/10/15,stitm001,stitema01
+stratch01,1990,8,22,USA,MS,Tupelo,,,,,,,Chris,Stratton,Christopher Lee,190,75,R,R,30/05/16,29/06/16,strac001,stratch01
+susacan01,1990,3,22,USA,CA,Roseville,,,,,,,Andrew,Susac,Andrew John,215,73,R,R,22/05/14,02/10/16,susaa001,susacan01
+tayloch03,1990,8,29,USA,VA,Virginia Beach,,,,,,,Chris,Taylor,Christopher Armand,195,73,R,R,24/07/14,02/10/16,taylc001,tayloch03
+tomasya01,1990,11,14,Cuba,La Habana,La Habana,,,,,,,Yasmany,Tomas,Yasmany,250,74,R,R,15/04/15,02/10/16,tomay001,tomasya01
+tomlike01,1990,6,16,USA,OK,Chickasha,,,,,,,Kelby,Tomlinson,Kelby Aaron,180,75,R,R,03/08/15,30/09/16,tomlk001,tomlike01
+triunca01,1990,2,27,D.R.,Santiago,Santiago,,,,,,,Carlos,Triunfel,Carlos Manuel,195,71,R,R,07/09/12,17/08/14,triuc001,triunca01
+tropeni01,1990,8,27,USA,NY,West Islip,,,,,,,Nick,Tropeano,Nicholas Paul,200,76,R,R,10/09/14,18/07/16,tropn001,tropeni01
+tuckepr01,1990,7,6,USA,FL,Tampa,,,,,,,Preston,Tucker,Preston M.,215,72,L,L,07/05/15,11/08/16,tuckp001,tuckepr01
+valdejo03,1990,3,1,D.R.,Peravia,Don Gregorio de Nizao,,,,,,,Jose,Valdez,Jose Alfredo,200,73,R,R,31/07/15,30/09/16,valdj003,valdejo03
+vargake01,1990,8,1,P.R.,,Canovanas,,,,,,,Kennys,Vargas,Kennys,290,77,B,R,01/08/14,02/10/16,vargk001,vargake01
+vazquch01,1990,8,21,P.R.,,Bayamon,,,,,,,Christian,Vazquez,Christian Rafael,195,69,R,R,09/07/14,01/10/16,vazqc001,vazquch01
+verhadr01,1990,10,22,USA,TX,Royse City,,,,,,,Drew,VerHagen,Drew Edward,230,78,R,R,19/07/14,22/05/16,verhd001,verhadr01
+verrelo01,1990,6,19,USA,TX,The Woodlands,,,,,,,Logan,Verrett,Scott Logan,190,74,R,R,08/04/15,23/09/16,verrl001,verrelo01
+vizcaar01,1990,11,13,D.R.,San Cristobal,Yaguate,,,,,,,Arodys,Vizcaino,Arodys,230,72,R,R,10/08/11,24/08/16,vizca001,vizcaar01
+weberry01,1990,8,12,USA,FL,St. Petersburg,,,,,,,Ryan,Weber,James Ryan,180,73,R,R,08/09/15,21/09/16,weber001,weberry01
+webstal01,1990,2,10,USA,NC,Greensboro,,,,,,,Allen,Webster,Carl Allen,190,74,R,R,21/04/13,02/10/15,websa001,webstal01
+wendljo01,1990,4,26,USA,DE,Wilmington,,,,,,,Joey,Wendle,Joseph Patrick,190,73,L,R,31/08/16,02/10/16,wendj002,wendljo01
+wheelza01,1990,5,30,USA,GA,Smyrna,,,,,,,Zach,Wheeler,Zachary Harrison,195,76,L,R,18/06/13,25/09/14,wheez001,wheelza01
+whitety01,1990,10,29,USA,NC,Mooresboro,,,,,,,Tyler,White,Brian Tyler,225,71,R,R,05/04/16,02/10/16,whitt002,whitety01
+wielajo01,1990,1,21,USA,NV,Reno,,,,,,,Joe,Wieland,Joseph Andrew,205,74,R,R,14/04/12,12/08/16,wielj001,wielajo01
+willima08,1990,7,15,USA,FL,Jacksonville,,,,,,,Mac,Williamson,Johnathan Mackensey,240,76,R,R,23/09/15,25/09/16,willm008,willima11
+winklda01,1990,2,2,USA,IL,Effingham,,,,,,,Daniel,Winkler,Daniel Allen,205,75,R,R,21/09/15,10/04/16,winkd001,winklda01
+wongko01,1990,10,10,USA,HI,Hilo,,,,,,,Kolten,Wong,Kolten Kaha,185,69,L,R,16/08/13,30/09/16,wongk001,wongko01
+wrighmi01,1990,1,3,USA,SC,Bennettsville,,,,,,,Mike,Wright,Dennis Michael,215,78,R,R,17/05/15,21/09/16,wrigm001,wrighmi01
+youngma03,1990,11,3,USA,GA,Augusta,,,,,,,Madison,Younginer,John Madison,205,76,R,R,07/08/16,24/08/16,younm005,youngma03
+zychto01,1990,8,7,USA,IL,Monee,,,,,,,Tony,Zych,Anthony Aaron,190,75,R,R,04/09/15,24/08/16,zycht001,zychto01
+adamecr01,1991,7,26,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Cristhian,Adames,Cristhian Pascual,185,72,B,R,29/07/14,02/10/16,adamc001,adamecr01
+alcanar01,1991,10,29,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Arismendy,Alcantara,Arismendy,170,70,B,R,09/07/14,21/09/16,alcaa001,alcanar01
+altheaa01,1991,1,14,Germany,Rheinland-Pfalz,Landstuhl,,,,,,,Aaron,Altherr,Aaron Samuel,215,77,R,R,16/06/14,02/10/16,altha001,altheaa01
+alvarrj01,1991,6,8,USA,FL,West Palm Beach,,,,,,,R. J.,Alvarez,Roy Emilio,225,74,R,R,03/09/14,29/09/15,alvar001,alvarrj01
+araujel01,1991,7,15,Venezuela,Zulia,Maracaibo,,,,,,,Elvis,Araujo,Elvis Alejandro,275,79,L,L,05/05/15,16/08/16,araue001,araujel01
+arciaos01,1991,5,9,Venezuela,Anzoategui,Anaco,,,,,,,Oswaldo,Arcia,Oswaldo Celestino,225,72,L,R,15/04/13,18/09/16,arcio001,arciaos01
+arenano01,1991,4,16,USA,CA,Newport Beach,,,,,,,Nolan,Arenado,Nolan James,205,74,R,R,28/04/13,02/10/16,arenn001,arenano01
+asheral01,1991,10,4,USA,FL,Lakeland,,,,,,,Alec,Asher,Alec Edward,230,76,R,R,30/08/15,30/09/16,ashea001,asheral01
+asuajca01,1991,11,2,Venezuela,Lara,Barquisimeto,,,,,,,Carlos,Asuaje,Carlos A.,160,69,L,R,21/09/16,01/10/16,asuac001,asuajca01
+austity01,1991,9,6,USA,GA,Conyers,,,,,,,Tyler,Austin,Christopher Tyler,220,74,R,R,13/08/16,02/10/16,austt001,austity01
+banuema01,1991,3,13,Mexico,Durango,Gomez Palacio,,,,,,,Manny,Banuelos,Manuel,215,70,R,L,02/07/15,06/09/15,banum001,banuema01
+barnhtu01,1991,1,7,USA,IN,Indianapolis,,,,,,,Tucker,Barnhart,Tucker Jackson,190,71,B,R,03/04/14,02/10/16,barnt001,barnhtu01
+barreja01,1991,7,22,USA,CA,Upland,,,,,,,Jake,Barrett,Jake Dalton,240,74,R,R,04/04/16,21/09/16,barrj002,barreja01
+barriyh01,1991,12,1,Colombia,Bolivar,Cartagena,,,,,,,Yhonathan,Barrios,Yhonathan,205,70,B,R,24/09/15,04/10/15,barry001,barriyh01
+bauertr01,1991,1,17,USA,CA,North Hollywood,,,,,,,Trevor,Bauer,Trevor Andrew,200,73,R,R,28/06/12,01/10/16,bauet001,bauertr01
+bedroca01,1991,10,2,USA,GA,Senoia,,,,,,,Cam,Bedrosian,Cameron Rock,230,72,R,R,03/06/14,03/08/16,bedrc001,bedroca01
+bellaan01,1991,8,5,USA,CA,San Diego,,,,,,,Andrew,Bellatti,Andrew James,190,73,R,R,09/05/15,02/10/15,bella001,bellaan01
+bethach01,1991,9,2,Panama,Panama,Panama,,,,,,,Christian,Bethancourt,Christian Gabriel,210,74,R,R,29/09/13,30/08/16,bethc001,bethach01
+bowmama01,1991,5,31,USA,MD,Chevy Chase,,,,,,,Matthew,Bowman,Matthew Chou,175,72,R,R,06/04/16,01/10/16,bowmm001,bowmama01
+boydma01,1991,2,2,USA,WA,Bellevue,,,,,,,Matt,Boyd,Matthew Robert,215,75,L,L,27/06/15,25/09/16,boydm001,boydma01
+brettry01,1991,10,9,USA,WA,Seattle,,,,,,,Ryan,Brett,Ryan Duane,180,69,B,R,18/04/15,21/04/15,bretr001,brettry01
+bridwpa01,1991,8,2,USA,TX,Hereford,,,,,,,Parker,Bridwell,Parker Alan,185,76,R,R,21/08/16,24/08/16,bridp001,bridwpa01
+browntr01,1991,11,15,USA,CA,Newhall,,,,,,,Trevor,Brown,Trevor Michael,195,74,R,R,19/09/15,27/09/16,browt002,browntr01
+butleed01,1991,3,13,USA,VA,Chesapeake,,,,,,,Eddie,Butler,Timothy Edward,180,74,R,R,06/06/14,01/10/16,butle001,butleed01
+carasma01,1991,7,23,USA,CT,New Britain,,,,,,,Matt,Carasiti,Matthew Joseph,205,75,R,R,12/08/16,02/10/16,caram001,carasma01
+cecchga01,1991,4,20,USA,LA,Sulphur,,,,,,,Garin,Cecchini,Garin Glenn,220,75,L,R,01/06/14,16/08/15,ceccg001,cecchga01
+choiji01,1991,5,19,South Korea,Incheon,Incheon,,,,,,,Ji-Man,Choi,Ji-Man,230,73,L,R,05/04/16,02/10/16,choij001,choiji01
+contrca01,1991,1,8,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Carlos,Contreras,Carlos Manuel,215,71,R,R,21/06/14,04/10/15,contc001,contrca01
+crockky01,1991,12,15,USA,VA,Newport News,,,,,,,Kyle,Crockett,Kyle Richard,175,74,L,L,16/05/14,24/09/16,crock001,crockky01
+davidma02,1991,3,26,USA,CA,Yucaipa,,,,,,,Matt,Davidson,Matthew Glen,230,75,R,R,11/08/13,30/06/16,davim005,davidma02
+diazja01,1991,5,27,Venezuela,Anzoategui,Puerto La Cruz,,,,,,,Jairo,Diaz,Jairo Jose,200,72,R,R,08/09/14,03/10/15,diazj006,diazja01
+doziehu01,1991,8,22,USA,TX,Wichita Falls,,,,,,,Hunter,Dozier,Hunter William,220,76,R,R,12/09/16,30/09/16,dozih001,doziehu01
+duffyma01,1991,1,15,USA,CA,Long Beach,,,,,,,Matt,Duffy,Matthew Michael,170,74,R,R,22/05/14,05/09/16,duffm002,duffyma01
+edwarca01,1991,9,3,USA,SC,Newberry,,,,,,,Carl,Edwards,Carl Fleming,170,75,R,R,07/09/15,02/10/16,edwac001,edwarca01
+egeco01,1991,5,8,USA,IA,Sioux City,,,,,,,Cody,Ege,Cody Paul,190,73,L,L,23/04/16,30/09/16,ege-c001,egeco01
+farmebu01,1991,2,20,USA,GA,Conyers,,,,,,,Buck,Farmer,George Runie,225,76,L,R,13/08/14,26/09/16,farmb001,farmebu01
+fieldda01,1991,1,23,USA,MI,Detroit,,,,,,,Daniel,Fields,Daniel Leigh,215,74,L,R,04/06/15,04/06/15,field001,fieldda01
+floreke01,1991,11,24,D.R.,Azua,Azua,,,,,,,Kendry,Flores,Kendry,195,74,R,R,06/06/15,14/05/16,flork002,floreke01
+florewi01,1991,8,6,Venezuela,Carabobo,Valencia,,,,,,,Wilmer,Flores,Wilmer Alejandro,205,75,R,R,06/08/13,10/09/16,florw001,florewi01
+foltymi01,1991,10,7,USA,IL,Sterling,,,,,,,Mike,Foltynewicz,Michael Gary,220,76,R,R,02/08/14,28/09/16,foltm001,foltymi01
+frankni01,1991,3,2,USA,FL,Sanford,,,,,,,Nick,Franklin,Nicholas Edward,190,73,B,R,27/05/13,01/10/16,frann001,frankni01
+fraziad01,1991,12,14,USA,GA,Athens,,,,,,,Adam,Frazier,Adam Timothy,180,70,L,R,24/06/16,02/10/16,fraza001,fraziad01
+fuentre01,1991,2,12,USA,FL,Orlando,,,,,,,Reymond,Fuentes,Reymond Louis,160,72,L,L,26/08/13,15/06/16,fuenr001,fuentre01
+garciav01,1991,6,12,Venezuela,Anzoategui,Anaco,,,,,,,Avisail,Garcia,Avisail Antonio,240,76,R,R,31/08/12,02/10/16,garca003,garciav01
+garcile02,1991,3,18,D.R.,Santiago,Santiago,,,,,,,Leury,Garcia,Leury,170,68,B,R,06/04/13,02/10/16,garcl004,garcile02
+gausmke01,1991,1,6,USA,CO,Centennial,,,,,,,Kevin,Gausman,Kevin John,190,75,L,R,23/05/13,02/10/16,gausk001,gausmke01
+girodch01,1991,2,6,USA,AL,Decatur,,,,,,,Chad,Girodo,Chad Alan,190,73,L,L,22/04/16,19/06/16,giroc001,girodch01
+gonzaer01,1991,8,31,D.R.,Puerto Plata,Puerto Plata,,,,,,,Erik,Gonzalez,Erik,195,75,R,R,16/07/16,01/10/16,gonze004,gonzaer01
+goodyni01,1991,7,6,USA,FL,Orlando,,,,,,,Nick,Goody,Nicholas Gunnar,195,71,R,R,30/07/15,02/09/16,goodn001,goodyni01
+gorete01,1991,6,8,USA,GA,Macon,,,,,,,Terrance,Gore,Terrance J.,165,67,R,R,31/08/14,02/10/16,goret001,gorete01
+grayjo02,1991,11,5,USA,OK,Shawnee,,,,,,,Jon,Gray,Jonathan Charles,235,76,R,R,04/08/15,29/09/16,grayj003,grayjo02
+greench03,1991,5,24,USA,SC,Greenville,,,,,,,Chad,Green,Chad Keith,210,75,L,R,16/05/16,02/09/16,greec003,greench03
+grichra01,1991,8,13,USA,TX,Rosenberg,,,,,,,Randal,Grichuk,Randal Alexander,205,73,R,R,28/04/14,02/10/16,gricr001,grichra01
+guerrta01,1991,1,9,Colombia,Bolivar,Boca Chica,,,,,,,Tayron,Guerrero,Tayron Luis,210,80,R,R,17/05/16,17/05/16,guert001,guerrta01
+heanean01,1991,6,5,USA,OK,Oklahoma City,,,,,,,Andrew,Heaney,Andrew M.,195,74,L,L,19/06/14,05/04/16,heana001,heanean01
+hellebe01,1991,8,5,USA,WI,Milwaukee,,,,,,,Ben,Heller,Benjamin,205,75,R,R,26/08/16,30/09/16,hellb001,hellebe01
+heredgu01,1991,1,31,Cuba,Matanzas,Matanzas,,,,,,,Guillermo,Heredia,Guillermo,180,70,R,L,29/07/16,02/10/16,hereg002,heredgu01
+hernaen02,1991,8,24,P.R.,,San Juan,,,,,,,Enrique,Hernandez,Enrique J.,200,71,R,R,01/07/14,02/10/16,herne001,hernaen02
+herreod01,1991,12,29,Venezuela,Anzoategui,San Jose,,,,,,,Odubel,Herrera,David Odubel,200,71,L,R,06/04/15,02/10/16,herro001,herreod01
+holmbda01,1991,7,19,USA,TX,Houston,,,,,,,David,Holmberg,David A.,245,75,R,L,27/08/13,26/08/15,holmd002,holmbda01
+hurshja01,1991,10,2,USA,TX,Dallas,,,,,,,Jason,Hursh,Jason Brewster,200,75,R,R,13/08/16,17/08/16,hursj004,hurshja01
+jackslu01,1991,8,24,USA,FL,Fort Lauderdale,,,,,,,Luke,Jackson,Luke Ray,210,74,R,R,04/09/15,02/07/16,jackl001,jackslu01
+jankotr01,1991,6,15,USA,PA,Lancaster,,,,,,,Travis,Jankowski,Travis Paul,185,75,L,R,21/08/15,02/10/16,jankt001,jankotr01
+josepto01,1991,7,16,USA,AZ,Phoenix,,,,,,,Tommy,Joseph,Thomas Richard,255,73,R,R,13/05/16,02/10/16,joset001,josepto01
+kempto01,1991,10,31,USA,TN,Franklin,,,,,,,Tony,Kemp,Anthony Allen,165,66,L,R,17/05/16,02/10/16,kempt001,kempto01
+kiebosp01,1991,3,16,USA,SC,Mount Pleasant,,,,,,,Spencer,Kieboom,Spencer John,210,72,R,R,02/10/16,02/10/16,kiebs001,kiebosp01
+knebeco01,1991,11,26,USA,TX,Denton,,,,,,,Corey,Knebel,Corey Andrew,220,76,R,R,24/05/14,02/10/16,knebc001,knebeco01
+krolia01,1991,5,9,USA,IL,Hinsdale,,,,,,,Ian,Krol,Ian A.,210,73,L,L,05/06/13,29/09/16,kroli001,krolia01
+leeza01,1991,9,13,USA,TX,Plano,,,,,,,Zach,Lee,Zachary Stephen,227,76,R,R,25/07/15,25/07/15,lee-z001,leeza01
+leonedo01,1991,10,26,USA,CT,Norwich,,,,,,,Dominic,Leone,Dominic Joseph,210,71,R,R,06/04/14,24/09/16,leond003,leonedo01
+lightpa01,1991,3,29,USA,NJ,Colts Neck,,,,,,,Pat,Light,Patrick James,220,77,R,R,26/04/16,30/09/16,lighp001,lightpa01
+liriary01,1991,6,20,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Rymer,Liriano,Rymer Omar,230,72,R,R,11/08/14,28/09/14,lirir001,liriary01
+magnida01,1991,5,24,USA,TX,Dallas,,,,,,,Damien,Magnifico,Damien Jack,195,73,R,R,16/08/16,08/09/16,magnd001,magnida01
+mailelu01,1991,2,6,USA,KY,Edgewood,,,,,,,Luke,Maile,Luke Richard,225,75,R,R,01/09/15,02/10/16,maill001,mailelu01
+mantijo01,1991,3,1,USA,VA,Danville,,,,,,,Joe,Mantiply,Joseph Newman,215,76,R,L,03/09/16,16/09/16,mantj002,mantijo01
+marisja01,1991,3,30,USA,CA,Riverside,,,,,,,Jake,Marisnick,Jacob Shawn,220,76,R,R,23/07/13,02/10/16,marij002,marisja01
+marteje01,1991,6,21,D.R.,La Romana,La Romana,,,,,,,Jefry,Marte,Jefry Leonal,220,73,R,R,05/07/15,02/10/16,martj007,marteje01
+martica04,1991,9,21,D.R.,Puerto Plata,Puerto Plata,,,,,,,Carlos,Martinez,Carlos Ernesto,190,72,R,R,03/05/13,30/09/16,martc006,martica04
+matzst01,1991,5,29,USA,NY,Stony Brook,,,,,,,Steven,Matz,Steven Jakob,200,74,R,L,28/06/15,14/08/16,matzs001,matzst01
+mayermi01,1991,12,6,USA,OH,Grove City,,,,,,,Mike,Mayers,Michael Christopher,200,75,R,R,24/07/16,26/09/16,mayem001,mayermi01
+millsal02,1991,11,30,USA,TN,Clarksville,,,,,,,Alec,Mills,Alec Thomas,190,76,R,R,18/05/16,15/09/16,milla003,millsal02
+mitchbr01,1991,4,19,USA,NC,Reidsville,,,,,,,Bryan,Mitchell,Bryan Bedford,210,75,L,R,10/08/14,28/09/16,mitcb001,mitchbr01
+morinmi01,1991,5,3,USA,MN,Andover,,,,,,,Mike,Morin,Michael William,220,76,R,R,30/04/14,01/10/16,morim002,morinmi01
+moscojo01,1991,8,15,USA,CA,Santa Monica,,,,,,,Jon,Moscot,Jonathan Solomon,210,76,R,R,05/06/15,05/06/16,moscj001,moscojo01
+moyast01,1991,8,9,P.R.,,Rio Piedras,,,,,,,Steven,Moya,Steven,260,79,L,R,01/09/14,01/10/16,moyas001,moyast01
+murphjr01,1991,5,13,USA,FL,Bradenton,,,,,,,J. R.,Murphy,John Ryan,205,71,R,R,02/09/13,02/10/16,murpj001,murphjr01
+murphto04,1991,4,3,USA,NY,West Monroe,,,,,,,Tom,Murphy,Thomas James,220,73,R,R,12/09/15,02/10/16,murpt002,murphto04
+naquity01,1991,4,24,USA,TX,Spring,,,,,,,Tyler,Naquin,Tyler Wesley,195,74,L,R,05/04/16,02/10/16,naqut001,naquity01
+nicolju01,1991,11,22,USA,FL,Orlando,,,,,,,Justin,Nicolino,Justin Brian,195,75,L,L,20/06/15,02/10/16,nicoj001,nicolju01
+okertst01,1991,7,9,USA,CA,Riverside,,,,,,,Steven,Okert,Steven Chandler,210,75,L,L,19/04/16,28/09/16,okers001,okertst01
+ortegra01,1991,5,15,Venezuela,Anzoategui,El Tigre,,,,,,,Rafael,Ortega,Rafael Angel,160,71,L,R,30/09/12,02/10/16,orter001,ortegra01
+overtdi01,1991,8,17,USA,OK,Clinton,,,,,,,Dillon,Overton,Dillon Ray,175,74,L,L,25/06/16,27/09/16,overd001,overtdi01
+owingch01,1991,8,12,USA,SC,Charleston,,,,,,,Chris,Owings,Christopher Scott,185,70,R,R,03/09/13,02/10/16,owinc001,owingch01
+pazosja01,1991,5,5,USA,AZ,Gilbert,,,,,,,James,Pazos,James Manuel,235,74,R,L,05/09/15,30/09/16,pazoj001,pazosja01
+peralwa01,1991,7,27,D.R.,Duarte,San Francisco de Macoris,,,,,,,Wandy,Peralta,Wandy Luis,210,72,L,L,04/09/16,02/10/16,peraw002,peralwa01
+perezhe01,1991,3,26,Venezuela,Aragua,Villa de Cura,,,,,,,Hernan,Perez,Hernan Alejandro,215,73,R,R,09/06/12,02/10/16,pereh001,perezhe01
+perezma02,1991,4,4,Venezuela,Portuguesa,Guanare,,,,,,,Martin,Perez,Martin,200,72,L,L,27/06/12,02/10/16,perem004,perezma02
+perezwi01,1991,5,21,Venezuela,Portuguesa,Acarigua,,,,,,,Williams,Perez,Williams David,240,72,R,R,08/05/15,11/09/16,perew001,perezwi01
+perezye01,1991,2,24,D.R.,Peravia,Bani,,,,,,,Yefri,Perez,Yefri,170,71,B,R,17/07/16,02/10/16,perey002,perezye01
+piscost01,1991,1,14,USA,CA,Pleasanton,,,,,,,Stephen,Piscotty,Stephen Edward,210,75,R,R,21/07/15,02/10/16,piscs001,piscost01
+plaweke01,1991,2,26,USA,IL,Hinsdale,,,,,,,Kevin,Plawecki,Kevin Jeffrey,210,74,R,R,21/04/15,02/10/16,plawk001,plaweke01
+plutkad01,1991,10,3,USA,CA,Upland,,,,,,,Adam,Plutko,Adam Gregory,200,75,R,R,24/09/16,27/09/16,pluta001,plutkad01
+polangr01,1991,9,14,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Gregory,Polanco,Gregory,230,77,L,L,10/06/14,02/10/16,polag001,polangr01
+rayro02,1991,10,1,USA,TN,Brentwood,,,,,,,Robbie,Ray,Robert Glenn,195,74,L,L,06/05/14,29/09/16,ray-r002,rayro02
+realmjt01,1991,3,18,USA,OK,Del City,,,,,,,J. T.,Realmuto,Jacob Tyler,210,73,R,R,05/06/14,30/09/16,realj001,realmjt01
+refsnro01,1991,3,26,South Korea,Seoul,Seoul,,,,,,,Rob,Refsnyder,Robert Daniel,200,72,R,R,11/07/15,01/10/16,refsr001,refsnro01
+rendato01,1991,1,24,USA,CA,Santa Rosa,,,,,,,Tony,Renda,Anthony John,175,68,R,R,02/08/16,02/10/16,rendt001,rendato01
+rickajo01,1991,5,21,USA,NV,Las Vegas,,,,,,,Joey,Rickard,Joseph Mark,185,73,R,L,04/04/16,20/07/16,rickj001,rickajo01
+riverfe01,1991,7,5,Venezuela,Yaracuy,San Felipe,,,,,,,Felipe,Rivero,Felipe Javier,210,74,L,L,17/04/15,01/10/16,rivef001,riverfe01
+rodrijo04,1991,11,14,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Joely,Rodriguez,Joely,200,73,L,L,11/09/16,02/10/16,rodrj004,rodrijo06
+rodrist02,1991,4,16,USA,FL,Miami Beach,,,,,,,Paco,Rodriguez,Steven Francis,220,75,L,L,09/09/12,29/05/15,rodrp001,rodrist02
+romeren01,1991,1,24,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Enny,Romero,Enny Manuel,215,75,L,L,22/09/13,30/09/16,romee002,romeren01
+rosared01,1991,9,28,P.R.,,Guayama,,,,,,,Eddie,Rosario,Eddie Manuel,180,73,L,R,06/05/15,17/09/16,rosae001,rosared01
+rumbeni01,1991,9,6,USA,TX,Bullard,,,,,,,Nick,Rumbelow,Nicholas Bruno,190,72,R,R,23/06/15,28/09/15,rumbn001,rumbeni01
+ryanky01,1991,9,25,USA,FL,Auburndale,,,,,,,Kyle,Ryan,Kyle,215,77,L,L,30/08/14,01/10/16,ryank002,ryanky01
+sampsad01,1991,10,7,USA,WA,Redmond,,,,,,,Adrian,Sampson,Adrian David,210,74,R,R,18/06/16,23/06/16,sampa001,sampsad01
+sampske01,1991,1,6,USA,FL,Gainesville,,,,,,,Keyvius,Sampson,Keyvius N.,225,74,R,R,30/07/15,27/09/16,sampk001,sampske01
+schoojo01,1991,10,16,Curacao,,Willemstad,,,,,,,Jonathan,Schoop,Jonathan Rufino Jezus,225,73,R,R,25/09/13,02/10/16,schoj001,schoojo01
+shaffri01,1991,3,15,USA,NJ,Flemington,,,,,,,Richie,Shaffer,Richard Michael,220,75,R,R,03/08/15,02/10/16,shafr001,shaffri01
+singljo02,1991,9,18,USA,CA,Harbor City,,,,,,,Jon,Singleton,Jonathan Lee,230,74,L,L,03/06/14,02/10/15,singj001,singljo02
+skaggty01,1991,7,13,USA,CA,Woodland Hills,,,,,,,Tyler,Skaggs,Tyler Wayne,215,76,L,L,22/08/12,01/10/16,skagt001,skaggty01
+sotogi01,1991,5,18,P.R.,,Carolina,,,,,,,Giovanni,Soto,Giovanni Luis,210,74,L,L,05/09/15,27/09/15,sotog002,sotogi01
+spangco01,1991,3,16,USA,PA,Clarks Summit,,,,,,,Cory,Spangenberg,Cory Joseph,195,72,L,R,01/09/14,19/04/16,spanc001,spangco01
+stassma01,1991,3,15,USA,CA,Woodland,,,,,,,Max,Stassi,Max Robert,200,70,R,R,20/08/13,02/10/16,stasm001,stassma01
+stewabr01,1991,10,3,USA,IL,Normal,,,,,,,Brock,Stewart,Brock Allen,210,75,L,R,29/06/16,27/09/16,stewb001,stewabr01
+strahma01,1991,11,12,USA,ND,West Fargo,,,,,,,Matt,Strahm,Matthew Scott,185,75,R,L,31/07/16,01/10/16,stram001,strahma01
+stromma01,1991,5,1,USA,NY,Medford,,,,,,,Marcus,Stroman,Marcus Earl,180,68,R,R,04/05/14,29/09/16,strom001,stromma01
+stumpda01,1991,1,4,USA,TX,Humble,,,,,,,Daniel,Stumpf,Daniel Arthur,200,74,L,L,07/04/16,21/07/16,stumd001,stumpda01
+suareeu01,1991,7,18,Venezuela,Bolivar,Puerto Ordaz,,,,,,,Eugenio,Suarez,Eugenio Alejandro,205,71,R,R,04/06/14,02/10/16,suare001,suareeu01
+sweenda02,1991,2,1,USA,FL,Hollywood,,,,,,,Darnell,Sweeney,Darnell Thomas,195,73,B,R,20/08/15,04/10/15,sweed001,sweenda02
+taillja01,1991,11,18,USA,FL,Lakeland,,,,,,,Jameson,Taillon,Jameson Lee,220,77,R,R,08/06/16,28/09/16,tailj001,taillja01
+taylomi02,1991,3,26,USA,FL,Fort Lauderdale,,,,,,,Michael,Taylor,Michael Anthony,210,75,R,R,12/08/14,01/10/16,taylm002,taylomi02
+teherju01,1991,1,27,Colombia,Bolivar,Cartagena,,,,,,,Julio,Teheran,Julio Alberto,205,74,R,R,07/05/11,02/10/16,tehej001,teherju01
+telisto01,1991,6,18,Venezuela,Anzoategui,El Tigre,,,,,,,Tomas,Telis,Tomas,220,68,B,R,25/08/14,02/10/16,telit001,telisto01
+thomptr01,1991,3,15,USA,CA,Los Angeles,,,,,,,Trayce,Thompson,Trayce Nikolas,225,75,R,R,04/08/15,10/07/16,thomt002,thomptr01
+tovarwi01,1991,8,11,Venezuela,Miranda,Santa Teresa,,,,,,,Wilfredo,Tovar,Wilfredo Jose,180,70,R,R,22/09/13,28/09/14,tovaw001,tovarwi01
+travide01,1991,2,21,USA,FL,West Palm Beach,,,,,,,Devon,Travis,Devon Anthony,190,69,R,R,06/04/15,02/10/16,travd001,travide01
+troutmi01,1991,8,7,USA,NJ,Vineland,,,,,,,Mike,Trout,Michael Nelson,235,74,R,R,08/07/11,02/10/16,troum001,troutmi01
+turneja01,1991,5,21,USA,MO,St. Charles,,,,,,,Jacob,Turner,Jacob Edward,215,77,R,R,30/07/11,02/10/16,turnj002,turneja01
+urenajo01,1991,9,12,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Jose,Urena,Jose Miguel,200,74,R,R,14/04/15,28/09/16,urenj001,urenajo01
+urshegi01,1991,10,11,Colombia,Bolivar,Cartagena,,,,,,,Giovanny,Urshela,Giovanny,215,72,R,R,09/06/15,04/10/15,urshg001,urshegi01
+vargace01,1991,12,30,Mexico,Puebla,Puebla,,,,,,,Cesar,Vargas,Cesar,220,74,R,R,23/04/16,28/05/16,vargc002,vargace01
+ventuyo01,1991,6,3,D.R.,Samana,Samana,2016,1,22,D.R.,Monsenor Nouel,Juan Adrian,Yordano,Ventura,Yordano,195,72,R,R,17/09/13,30/09/16,venty001,ventuyo01
+villajo01,1991,5,2,D.R.,La Vega,La Vega,,,,,,,Jonathan,Villar,Jonathan Rafael,215,73,B,R,22/07/13,02/10/16,villj001,villajo01
+wachami01,1991,7,1,USA,IA,Iowa City,,,,,,,Michael,Wacha,Michael Joseph,215,78,R,R,30/05/13,01/10/16,wachm001,wachami01
+wagnety01,1991,1,24,USA,NV,Las Vegas,,,,,,,Tyler,Wagner,Tyler Joseph,205,75,R,R,31/05/15,24/04/16,wagnt001,wagnety01
+waldrky02,1991,11,26,USA,FL,Fort Myers,,,,,,,Kyle,Waldrop,Kyle Michael,215,74,L,L,02/08/15,16/08/16,waldk002,waldrky02
+walkech02,1991,3,28,USA,PA,Norristown,,,,,,,Christian,Walker,Christian Dickson,220,72,R,R,17/09/14,30/09/15,walkc002,walkech02
+willima07,1991,8,21,USA,RI,Pawtucket,,,,,,,Mason,Williams,Mason,185,73,L,R,12/06/15,02/10/16,willm007,willima10
+wittgni01,1991,5,29,USA,CA,Torrance,,,,,,,Nick,Wittgren,Nicholas James,210,74,R,R,19/04/16,22/09/16,wittn001,wittgni01
+woodal02,1991,1,12,USA,NC,Charlotte,,,,,,,Alex,Wood,Robert Alexander,215,76,R,L,30/05/13,02/10/16,wooda002,woodal02
+wrighda04,1991,4,3,USA,TN,Bartlett,,,,,,,Daniel,Wright,Daniel Paul,205,74,R,R,24/05/16,30/09/16,wrigd003,wrighda04
+yelicch01,1991,12,5,USA,CA,Thousand Oaks,,,,,,,Christian,Yelich,Christian Stephen,195,75,L,R,23/07/13,02/10/16,yelic001,yelicch01
+ynoami01,1991,9,24,D.R.,Puerto Plata,Puerto Plata,,,,,,,Michael,Ynoa,Michael Jose,210,79,R,R,14/06/16,01/10/16,ynoam001,ynoami01
+zuninmi01,1991,3,25,USA,FL,Cape Coral,,,,,,,Mike,Zunino,Michael Accorsi,220,74,R,R,12/06/13,02/10/16,zunim001,zuninmi01
+alberha01,1992,10,17,D.R.,Duarte,San Francisco de Macoris,,,,,,,Hanser,Alberto,Hanser Joel,215,71,R,R,29/05/15,02/10/16,albeh001,alberha01
+alcanra01,1992,12,4,D.R.,Barahona,Barahona,,,,,,,Raul,Alcantara,Raul,220,76,R,R,05/09/16,30/09/16,alcar001,alcanra01
+altavda01,1992,9,8,USA,PA,McKeesport,,,,,,,Dan,Altavilla,Daniel,200,71,R,R,27/08/16,02/10/16,altad001,altavda01
+aquinja01,1992,11,22,D.R.,San Pedro de Macoris,San Pedro de Macoris,,,,,,,Jayson,Aquino,Jayson Julio,225,73,L,L,04/07/16,19/09/16,aquij001,aquinja01
+baezja01,1992,12,1,P.R.,,Bayamon,,,,,,,Javier,Baez,Ednel Javier,190,72,R,R,05/08/14,02/10/16,baezj001,baezja01
+barbajo01,1992,7,11,USA,FL,Miami,,,,,,,Johnny,Barbato,John Edward,235,73,R,R,05/04/16,05/08/16,barbj001,barbajo01
+belljo02,1992,8,14,USA,TX,Irving,,,,,,,Josh,Bell,Joshua Evan,240,74,B,R,08/07/16,01/10/16,bellj005,belljo02
+bettsmo01,1992,10,7,USA,TN,Nashville,,,,,,,Mookie,Betts,Markus Lynn,180,69,R,R,29/06/14,02/10/16,bettm001,bettsmo01
+birdgr01,1992,11,9,USA,CO,Aurora,,,,,,,Greg,Bird,Gregory Paul,220,76,L,R,13/08/15,04/10/15,birdg001,birdgr01
+blairaa01,1992,5,26,USA,NV,Las Vegas,,,,,,,Aaron,Blair,Aaron Daniel,250,76,R,R,24/04/16,01/10/16,blaia001,blairaa01
+bogaexa01,1992,10,1,Aruba,,Oranjestad,,,,,,,Xander,Bogaerts,Xander Jan,210,73,R,R,20/08/13,02/10/16,bogax001,bogaexa01
+brachsi01,1992,7,17,Venezuela,Zulia,Maracaibo,,,,,,,Silvino,Bracho,Silvino,190,70,R,R,30/08/15,02/10/16,bracs001,brachsi01
+bradlar01,1992,8,10,USA,OK,Muskogee,,,,,,,Archie,Bradley,Archie N.,225,76,R,R,11/04/15,01/10/16,brada001,bradlar01
+braulst01,1992,4,29,USA,CA,La Mesa,,,,,,,Steven,Brault,Steven Joseph,200,72,L,L,05/07/16,26/09/16,braus002,braulst01
+briceau01,1992,6,19,Hong Kong,,Hong Kong,,,,,,,Austin,Brice,Austin Robert,235,76,R,R,12/08/16,02/10/16,brica001,briceau01
+britoso01,1992,9,6,D.R.,Azua,Azua,,,,,,,Socrates,Brito,Socrates Orel,205,74,L,L,08/09/15,02/10/16,brits001,britoso01
+bryankr01,1992,1,4,USA,NV,Las Vegas,,,,,,,Kris,Bryant,Kristopher Lee,230,77,R,R,17/04/15,02/10/16,bryak001,bryankr01
+bundydy01,1992,11,15,USA,OK,Tulsa,,,,,,,Dylan,Bundy,Dylan Matthew,200,73,B,R,23/09/12,25/09/16,bundd001,bundydy01
+calixor01,1992,2,3,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Orlando,Calixte,Orlando,180,71,R,R,19/04/15,06/05/15,calio001,calixor01
+campojo01,1992,7,27,Venezuela,Vargas,La Guaira,,,,,,,Vicente,Campos,Jose Vicente,230,75,R,R,27/08/16,27/08/16,campv001,campovi01
+casteni01,1992,3,4,USA,FL,Davie,,,,,,,Nick,Castellanos,Nicholas A.,210,76,R,R,01/09/13,02/10/16,castn001,casteni01
+castrda01,1992,11,14,Mexico,Sonora,Guaymas,,,,,,,Daniel,Castro,Daniel Alejandro,190,71,R,R,17/06/15,30/09/16,castd001,castrda01
+cessalu01,1992,4,25,Mexico,Veracruz,Cordoba,,,,,,,Luis,Cessa,Luis Enrique,205,72,R,R,08/04/16,02/10/16,cessl001,cessalu01
+claudal01,1992,1,31,P.R.,,San Juan,,,,,,,Alex,Claudio,Alexander,180,75,L,L,13/08/14,01/10/16,claua001,claudal01
+coleaj01,1992,1,5,USA,FL,Winter Springs,,,,,,,A. J.,Cole,Andrew Jordan,215,77,R,R,28/04/15,30/09/16,colea002,coleaj01
+concege01,1992,2,29,Cuba,La Habana,La Habana,,,,,,,Gerardo,Concepcion,Gerardo,200,74,L,L,21/06/16,26/06/16,concg001,concege01
+contrwi01,1992,5,13,Venezuela,Carabobo,Puerto Cabello,,,,,,,Willson,Contreras,Willson Eduardo,210,73,R,R,17/06/16,02/10/16,contw001,contrwi01
+cottojh01,1992,1,19,V.I.,St. Thomas,,,,,,,,Jharel,Cotton,Jharel Leandre,195,71,R,R,07/09/16,01/10/16,cottj001,cottojh01
+cowarka01,1992,6,2,USA,GA,Adel,,,,,,,Kaleb,Cowart,Kaleb Bryant,225,75,B,R,18/08/15,02/10/16,cowak001,cowarka01
+curtiza01,1992,7,4,USA,FL,Panama City Beach,,,,,,,Zac,Curtis,Zachary Aaron,190,69,L,L,30/04/16,29/07/16,curtz001,curtiza01
+cuthbch01,1992,11,16,Nicaragua,Atlantico Sur,Corn Island,,,,,,,Cheslor,Cuthbert,Cheslor Jesly,190,73,R,R,07/07/15,02/10/16,cuthc001,cuthbch01
+deleojo03,1992,8,7,P.R.,,Isabela,,,,,,,Jose,De Leon,Jose Eugenio,190,74,R,R,04/09/16,28/09/16,delej003,deleojo03
+delosab01,1992,11,21,D.R.,Puerto Plata,Puerto Plata,,,,,,,Abel,De Los Santos,Abel,195,74,R,R,21/07/15,30/09/16,deloa001,delosab01
+deshide02,1992,8,16,USA,MD,Easton,,,,,,,Delino,DeShields,Delino Diaab,200,69,R,R,08/04/15,02/10/16,deshd002,deshide02
+difowi01,1992,4,2,D.R.,Santiago,Santiago de los Caballeros,,,,,,,Wilmer,Difo,Wilmer Francisco,200,71,B,R,19/05/15,02/10/16,difow001,difowi01
+drurybr01,1992,8,21,USA,OR,Grants Pass,,,,,,,Brandon,Drury,Brandon S.,210,74,R,R,01/09/15,02/10/16,drurb001,drurybr01
+escobed02,1992,4,22,Venezuela,,La Boyera,,,,,,,Edwin,Escobar,Edwin Jose,225,74,L,L,27/08/14,26/09/16,escoe002,escobed02
+estevca01,1992,12,28,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Carlos,Estevez,Carlos Samuel,210,76,R,R,23/04/16,02/10/16,estec001,estevca01
+faulkan01,1992,9,12,USA,SC,Bamberg,,,,,,,Andrew,Faulkner,Andrew Michael,205,75,R,L,31/08/15,25/09/16,faula001,faulkan01
+fernajo02,1992,7,31,Cuba,Villa Clara,Santa Clara,2016,9,25,USA,FL,Miami Beach,Jose,Fernandez,Jose D.,240,75,R,R,07/04/13,20/09/16,fernj003,fernajo02
+florera02,1992,3,26,Venezuela,Barinas,Barinas,,,,,,,Ramon,Flores,Ramon,190,70,L,L,30/05/15,18/08/16,florr003,florera02
+francma02,1992,8,26,D.R.,Azua,Azua,,,,,,,Maikel,Franco,Maikel Antonio,215,73,R,R,02/09/14,02/10/16,franm004,francma02
+gamelbe01,1992,5,17,USA,FL,Neptune Beach,,,,,,,Ben,Gamel,Benjamin Joseph,185,71,L,L,06/05/16,02/10/16,gameb001,gamelbe01
+gantjo01,1992,8,6,USA,GA,Savannah,,,,,,,John,Gant,John Michael,200,75,R,R,06/04/16,30/09/16,gantj002,gantjo01
+garcija03,1992,11,21,USA,NY,Bronx,,,,,,,Jason,Garcia,Jason Emilio,185,72,R,R,08/04/15,30/09/15,garcj005,garcija03
+goeddty01,1992,10,20,USA,CA,San Mateo,,,,,,,Tyler,Goeddel,Tyler David,180,76,R,R,06/04/16,21/09/16,goedt001,goeddty01
+gonzach01,1992,1,15,USA,FL,Delray Beach,,,,,,,Chi Chi,Gonzalez,Alexander,215,75,R,R,30/05/15,07/07/16,gonzc002,gonzach01
+gonzama02,1992,2,16,USA,CO,Fort Collins,,,,,,,Marco,Gonzales,Marco Elias,195,73,L,L,25/06/14,01/09/15,gonzm005,gonzama02
+gonzase01,1992,9,28,Panama,Veraguas,Santiago,,,,,,,Severino,Gonzalez,Severino Yunier,155,74,R,R,28/04/15,27/09/16,gonzs001,gonzase01
+gotttr01,1992,8,26,USA,KY,Lexington,,,,,,,Trevor,Gott,Trevor Vaughan,185,72,R,R,14/06/15,02/10/16,gottt001,gotttr01
+gustaja01,1992,10,12,D.R.,Duarte,Pimentel,,,,,,,Jandel,Gustave,Jandel Francisco,210,74,R,R,11/08/16,02/10/16,gustj001,gustaja01
+hansoal01,1992,10,22,D.R.,La Romana,La Romana,,,,,,,Alen,Hanson,Alen Rery,175,71,B,R,16/05/16,02/10/16,hansa001,hansoal01
+harpebr03,1992,10,16,USA,NV,Las Vegas,,,,,,,Bryce,Harper,Bryce Aron Max,215,75,L,R,28/04/12,02/10/16,harpb003,harpebr03
+healyry01,1992,1,10,USA,CA,West Hills,,,,,,,Ryon,Healy,Ryon Christopher,225,77,R,R,15/07/16,02/10/16,healr001,healyry01
+hedgeau01,1992,8,18,USA,CA,San Juan Capistrano,,,,,,,Austin,Hedges,Austin Charles,210,73,R,R,04/05/15,02/10/16,hedga001,hedgeau01
+hernama02,1992,9,6,D.R.,Santiago,Santiago,,,,,,,Marco,Hernandez,Marco Antonio,200,72,L,R,17/04/16,01/10/16,hernm003,hernama02
+hernate01,1992,10,15,D.R.,Sanchez Ramirez,Cotui,,,,,,,Teoscar,Hernandez,Teoscar Jose,180,74,R,R,12/08/16,02/10/16,hernt002,hernate01
+jenkity01,1992,7,20,USA,TX,Henderson,,,,,,,Tyrell,Jenkins,Tyrell Deon,210,76,R,R,22/06/16,30/09/16,jenkt001,jenkity01
+jonesja07,1992,5,10,USA,OK,Chickasha,,,,,,,JaCoby,Jones,JaCoby Mylon,205,74,R,R,30/08/16,27/09/16,jonej006,jonesja07
+judgeaa01,1992,4,26,USA,CA,Linden,,,,,,,Aaron,Judge,Aaron James,255,79,R,R,13/08/16,13/09/16,judga001,judgeaa01
+kuhlch01,1992,9,10,USA,DE,Bear,,,,,,,Chad,Kuhl,Chad Michael,220,75,R,R,26/06/16,01/10/16,kuhlc001,kuhlch01
+lorenmi01,1992,1,4,USA,CA,Anaheim,,,,,,,Michael,Lorenzen,Michael Clifton,215,75,R,R,29/04/15,01/10/16,lorem002,lorenmi01
+machadi01,1992,2,22,Venezuela,Tachira,San Cristobal,,,,,,,Dixon,Machado,Dixon Javier,170,73,R,R,25/05/15,27/09/16,machd001,machadi01
+machama01,1992,7,6,USA,FL,Hialeah,,,,,,,Manny,Machado,Manuel Arturo,185,75,R,R,09/08/12,02/10/16,machm001,machama01
+manaese01,1992,2,1,USA,IN,Valparaiso,,,,,,,Sean,Manaea,Sean Anthony,245,77,R,L,29/04/16,02/10/16,manas001,manaese01
+mancitr01,1992,3,18,USA,FL,Winter Haven,,,,,,,Trey,Mancini,Joseph Anthony,215,76,R,R,20/09/16,28/09/16,manct001,mancitr01
+mccarke01,1992,2,22,USA,NY,Rockville Centre,,,,,,,Kevin,McCarthy,Kevin Edward,200,75,R,R,09/09/16,01/10/16,mccak002,mccarke01
+merriry01,1992,2,21,USA,TX,McKinney,,,,,,,Ryan,Merritt,Ryan Adam,180,72,L,L,30/05/16,30/09/16,merrr001,merriry01
+moranco01,1992,10,1,USA,NY,Port Chester,,,,,,,Colin,Moran,Colin Richard,204,76,L,R,18/05/16,02/10/16,morac001,moranco01
+morimsh01,1992,11,20,USA,NY,Canandaigua,,,,,,,Shawn,Morimando,Shawn Peter,200,72,L,L,02/07/16,05/08/16,moris001,morimsh01
+morriak01,1992,11,14,V.I.,St. Thomas,St. Thomas,,,,,,,Akeel,Morris,Akeel J.,195,73,R,R,17/06/15,17/06/15,morra001,morriak01
+musgrjo01,1992,12,4,USA,CA,El Cajon,,,,,,,Joe,Musgrove,Joseph Anthony,265,77,R,R,02/08/16,25/09/16,musgj001,musgrjo01
+narvaom01,1992,2,10,Venezuela,Aragua,Maracay,,,,,,,Omar,Narvaez,Omar David,215,71,L,R,17/07/16,02/10/16,narvo001,narvaom01
+owenshe02,1992,7,21,USA,CA,Orange,,,,,,,Henry,Owens,Henry Cole,220,78,L,L,04/08/15,29/09/16,owenh002,owenshe02
+pattejo03,1992,2,12,USA,AL,Mobile,,,,,,,Jordan,Patterson,Jordan Andrew,215,76,L,L,08/09/16,02/10/16,pattj005,pattejo03
+pederjo01,1992,4,21,USA,CA,Palo Alto,,,,,,,Joc,Pederson,Joc Russell,220,73,L,L,01/09/14,02/10/16,pedej001,pederjo01
+pindech01,1992,3,29,USA,VA,Richmond,,,,,,,Chad,Pinder,Chadwick Hudson,195,74,R,R,20/08/16,02/10/16,pindc001,pindech01
+pompeda01,1992,12,11,CAN,ON,Mississauga,,,,,,,Dalton,Pompey,Dalton Kenrick,195,74,B,R,02/09/14,01/10/16,pompd001,pompeda01
+quereju01,1992,9,19,Venezuela,Lara,Barquisimeto,,,,,,,Juniel,Querecuto,Juniel Alberto,155,69,B,R,22/09/16,30/09/16,querj001,quereju01
+ramirjo01,1992,9,17,D.R.,Peravia,Bani,,,,,,,Jose,Ramirez,Jose Enrique,180,69,B,R,01/09/13,02/10/16,ramij003,ramirjo01
+ramosed02,1992,12,19,Venezuela,Distrito Federal,Caracas,,,,,,,Edubray,Ramos,Edubray Eduar,160,72,R,R,24/06/16,22/09/16,ramoe002,ramosed02
+reedmi02,1992,11,18,USA,MN,Maplewood,,,,,,,Michael,Reed,Michael Benton,215,72,R,R,26/09/15,01/10/16,reedm001,reedmi02
+renfrhu01,1992,1,28,USA,MS,Crystal Springs,,,,,,,Hunter,Renfroe,Dustin Hunter,220,73,R,R,21/09/16,02/10/16,renfh001,renfrhu01
+riverya01,1992,5,2,P.R.,,Caguas,,,,,,,Yadiel,Rivera,Yadiel,185,75,R,R,22/09/15,02/10/16,rivey001,riverya01
+rodonca01,1992,12,10,USA,FL,Miami,,,,,,,Carlos,Rodon,Carlos Antonio,235,75,L,L,21/04/15,30/09/16,rodoc001,rodonca01
+rodriyo01,1992,8,15,Venezuela,Aragua,Ocumare de la Costa,,,,,,,Yorman,Rodriguez,Yorman Jose,210,74,R,R,04/09/14,28/09/14,rodry001,rodriyo01
+sanchaa01,1992,7,1,USA,CA,Barstow,,,,,,,Aaron,Sanchez,Aaron Jacob,220,76,R,R,23/07/14,02/10/16,sanca006,sanchaa01
+sanchca01,1992,6,29,Venezuela,Aragua,Maracay,,,,,,,Carlos,Sanchez,Yolmer Carlos,195,71,B,R,13/07/14,02/10/16,sancc001,sanchca01
+sanchga02,1992,12,2,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Gary,Sanchez,Gary,230,74,R,R,03/10/15,02/10/16,sancg002,sanchga02
+santado01,1992,8,5,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Domingo,Santana,Domingo Alberto,220,77,R,R,01/07/14,02/10/16,santd002,santado01
+shiplbr01,1992,2,22,USA,OR,Medford,,,,,,,Braden,Shipley,Braden Alec,190,73,R,R,25/07/16,30/09/16,shipb001,shiplbr01
+snellbl01,1992,12,4,USA,WA,Seattle,,,,,,,Blake,Snell,Blake Ashton,180,76,L,L,23/04/16,28/09/16,snelb001,snellbl01
+solerjo01,1992,2,25,Cuba,La Habana,La Habana,,,,,,,Jorge,Soler,Jorge Carlos,215,76,R,R,27/08/14,02/10/16,solej001,solerjo01
+storytr01,1992,11,15,USA,TX,Irving,,,,,,,Trevor,Story,Trevor John,180,73,R,R,04/04/16,30/07/16,stort001,storytr01
+swihabl01,1992,4,3,USA,TX,Bedford,,,,,,,Blake,Swihart,Blake Aubry,200,73,B,R,02/05/15,04/06/16,swihb001,swihabl01
+syndeno01,1992,8,29,USA,TX,Mansfield,,,,,,,Noah,Syndergaard,Noah Seth,240,78,L,R,12/05/15,27/09/16,syndn001,syndeno01
+taveros01,1992,6,19,D.R.,Puerto Plata,Puerto Plata,2014,10,26,D.R.,Puerto Plata,Puerto Plata,Oscar,Taveras,Oscar Francisco,200,74,L,L,31/05/14,28/09/14,taveo001,taveros01
+tilsoch01,1992,12,2,USA,IL,Wilmette,,,,,,,Charlie,Tilson,Charles Everett,195,71,L,L,02/08/16,02/08/16,tilsc001,tilsoch01
+tolesan01,1992,5,24,USA,GA,Decatur,,,,,,,Andrew,Toles,Alvin Andrew,185,70,L,R,08/07/16,30/09/16,tolea001,tolesan01
+torrero01,1992,9,2,Venezuela,Distrito Federal,Libertador,,,,,,,Ronald,Torreyes,Ronald Alcides,150,70,R,R,13/09/15,02/10/16,torrr001,torrero01
+tuivasa01,1992,10,19,USA,CA,San Mateo,,,,,,,Sam,Tuivailala,Samuel Johnathan,225,75,R,R,09/09/14,26/09/16,tuivs001,tuivasa01
+valaipa01,1992,9,9,USA,CA,Valencia,,,,,,,Pat,Valaika,Patrick Ryne,200,71,R,R,06/09/16,02/10/16,valap001,valaipa01
+velasvi01,1992,6,7,USA,CA,Montclair,,,,,,,Vince,Velasquez,Vincent John,205,75,R,R,10/06/15,03/09/16,velav001,velasvi01
+vogelda01,1992,12,17,USA,FL,Orlando,,,,,,,Dan,Vogelbach,Daniel,250,72,L,R,12/09/16,02/10/16,voged001,vogelda01
+walketa01,1992,8,13,USA,LA,Shreveport,,,,,,,Taijuan,Walker,Taijuan Emmanuel,235,76,R,R,30/08/13,30/09/16,walkt004,walketa01
+wangwe01,1992,4,25,Taiwan,,Taitung City,,,,,,,Wei-Chung,Wang,Wei-Chung,185,74,L,L,14/04/14,07/09/14,wangw001,wangwe01
+willitr01,1992,4,25,USA,CA,San Diego,,,,,,,Trevor,Williams,Trevor Anthony,230,75,R,R,07/09/16,02/10/16,willt002,willitr01
+wislema01,1992,9,12,USA,OH,Bryan,,,,,,,Matt,Wisler,Matthew Robert,205,75,R,R,19/06/15,30/09/16,wislm001,wislema01
+wolteto01,1992,6,9,USA,CA,Vista,,,,,,,Tony,Wolters,Anthony John,200,70,L,R,05/04/16,02/10/16,woltt001,wolteto01
+zastrro01,1992,3,26,CAN,AB,Edmonton,,,,,,,Rob,Zastryzny,Robert John,205,75,R,L,19/08/16,29/09/16,zastr001,zastrro01
+alfarjo01,1993,6,11,Colombia,Sucre,Sincelejo,,,,,,,Jorge,Alfaro,Jorge Mario,225,74,R,R,12/09/16,25/09/16,alfaj002,alfarjo01
+almonmi01,1993,4,4,D.R.,Santiago,Santiago,,,,,,,Miguel,Almonte,Miguel Emilio,210,74,R,R,01/09/15,28/09/15,almom001,almonmi01
+anderti01,1993,6,23,USA,AL,Tuscaloosa,,,,,,,Tim,Anderson,Timothy Devon,185,73,R,R,10/06/16,02/10/16,andet001,anderti01
+buxtoby01,1993,12,18,USA,GA,Baxley,,,,,,,Byron,Buxton,Byron Keiron,190,74,R,R,14/06/15,02/10/16,buxtb001,buxtoby01
+cabrema01,1993,9,22,D.R.,San Juan,Las Matas de Farfan,,,,,,,Mauricio,Cabrera,Mauricio Adolfo,245,75,R,R,27/06/16,01/10/16,cabrm003,cabrema01
+candeje01,1993,11,24,USA,NY,New York,,,,,,,Jeimer,Candelario,Jeimer,210,73,B,R,03/07/16,07/07/16,candj002,candeje01
+cecchga02,1993,12,22,USA,LA,Lake Charles,,,,,,,Gavin,Cecchini,Gavin Glenn Christopher Joseph,200,74,R,R,11/09/16,25/09/16,ceccg002,cecchga02
+confomi01,1993,3,1,USA,WA,Seattle,,,,,,,Michael,Conforto,Michael Thomas,215,73,L,R,24/07/15,02/10/16,confm001,confomi01
+davieza01,1993,2,7,USA,WA,Puyallup,,,,,,,Zach,Davies,Zachary Ryan,155,72,R,R,02/09/15,23/09/16,daviz001,davieza02
+felizmi01,1993,6,28,D.R.,Azua,Azua,,,,,,,Michael,Feliz,Michael,230,76,R,R,31/05/15,23/09/16,felim001,felizmi01
+finnebr01,1993,4,14,USA,TX,Fort Worth,,,,,,,Brandon,Finnegan,Brandon Kyle,200,71,L,L,06/09/14,25/09/16,finnb001,finnebr01
+fulmeca01,1993,12,13,USA,FL,Lakeland,,,,,,,Carson,Fulmer,Carson Springer,195,72,R,R,17/07/16,11/08/16,fulmc001,fulmeca01
+fulmemi01,1993,3,15,USA,OK,Oklahoma City,,,,,,,Michael,Fulmer,Michael Joseph,210,75,R,R,29/04/16,28/09/16,fulmm001,fulmemi01
+gallojo01,1993,11,19,USA,NV,Henderson,,,,,,,Joey,Gallo,Joseph Nicholas,235,77,L,R,02/06/15,02/10/16,gallj002,gallojo01
+glasnty01,1993,8,23,USA,CA,Newhall,,,,,,,Tyler,Glasnow,Tyler Allen,220,80,L,R,07/07/16,30/09/16,glast001,glasnty01
+gloveko01,1993,4,13,USA,OK,Monroe,,,,,,,Koda,Glover,Koda James,225,77,R,R,20/07/16,25/09/16,glovk001,gloveko01
+gsellro01,1993,7,18,USA,CA,Santa Monica,,,,,,,Robert,Gsellman,Robert John,205,76,R,R,23/08/16,30/09/16,gselr001,gsellro01
+hernaos01,1993,7,9,Venezuela,Falcon,Punto Fijo,,,,,,,Oscar,Hernandez,Oscar Eduardo,230,73,R,R,12/07/15,01/10/16,herno002,hernaos01
+hoffmje02,1993,1,8,USA,NY,Latham,,,,,,,Jeff,Hoffman,Jeffrey Robert,225,77,R,R,20/08/16,01/10/16,hoffj003,hoffmje02
+holdejo02,1993,6,9,USA,MS,Gulfport,,,,,,,Jonathan,Holder,Jonathan Blake,235,74,R,R,02/09/16,01/10/16,holdj002,holdejo02
+housead01,1993,2,2,USA,OK,Tahlequah,,,,,,,Adrian,Houser,Adrian David,235,76,R,R,26/09/15,02/10/15,housa001,housead01
+kelake01,1993,4,16,USA,CA,Los Angeles,,,,,,,Keone,Kela,Keone Cole,215,73,R,R,07/04/15,02/10/16,kelak001,kelake01
+keplema01,1993,2,10,Germany,Berlin,Berlin,,,,,,,Max,Kepler,Maximilian,205,76,L,L,27/09/15,02/10/16,keplm001,keplema01
+leclejo01,1993,12,19,D.R.,Valverde,Esperanza,,,,,,,Jose,Leclerc,Jose Ramon,190,72,R,R,06/07/16,02/10/16,leclj001,leclejo01
+lindgja01,1993,3,12,USA,MS,Biloxi,,,,,,,Jacob,Lindgren,Jacob Stephen,210,71,L,L,25/05/15,12/06/15,lindj005,lindgja01
+lindofr01,1993,11,14,P.R.,,Caguas,,,,,,,Francisco,Lindor,Francisco Miguel,190,71,B,R,14/06/15,02/10/16,lindf001,lindofr01
+lopezjo02,1993,2,10,P.R.,,Cayey,,,,,,,Jorge,Lopez,Jorge Yabiel,195,75,R,R,29/09/15,04/10/15,lopej004,lopezjo02
+mahlegr01,1993,4,17,USA,CA,Los Alamitos,,,,,,,Greg,Mahle,Gregory Norman,230,74,L,L,13/04/16,08/06/16,mahlg001,mahlegr01
+marteke01,1993,10,12,D.R.,Peravia,Nizao,,,,,,,Ketel,Marte,Ketel Ricardo,165,73,B,R,31/07/15,01/10/16,martk001,marteke01
+mcculla02,1993,10,2,USA,FL,Tampa,,,,,,,Lance,McCullers,Lance Graye,205,73,L,R,18/05/15,02/08/16,mccul002,mcculla02
+mejiaad01,1993,6,20,D.R.,Monsenor Nouel,Bonao,,,,,,,Adalberto,Mejia,Adalberto,195,75,R,L,20/08/16,20/08/16,mejia001,mejiaad01
+mengdda01,1993,2,19,USA,TX,Houston,,,,,,,Daniel,Mengden,Daniel Joseph,190,74,R,R,11/06/16,27/09/16,mengd001,mengdda01
+montafr01,1993,3,21,D.R.,San Cristobal,Sainagua,,,,,,,Frankie,Montas,Francelis,255,74,R,R,02/09/15,04/10/15,montf001,montafr02
+morofma01,1993,5,13,USA,FL,Winter Park,,,,,,,Max,Moroff,Maxwell Anthony,185,70,B,R,31/07/16,03/08/16,morom001,morofma01
+nimmobr01,1993,3,27,USA,WY,Cheyenne,,,,,,,Brandon,Nimmo,Brandon Tate,205,75,L,R,26/06/16,02/10/16,nimmb001,nimmobr01
+nolaaa01,1993,6,4,USA,LA,Baton Rouge,,,,,,,Aaron,Nola,Aaron Michael,195,74,R,R,21/07/15,28/07/16,nolaa001,nolaaa01
+norrida01,1993,4,25,USA,TN,Johnson City,,,,,,,Daniel,Norris,Daniel David,195,74,L,L,05/09/14,30/09/16,norrd002,norrida01
+perdolu02,1993,5,9,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Luis,Perdomo,Luis David,185,74,R,R,04/04/16,28/09/16,perdl002,perdolu02
+polanjo01,1993,7,5,D.R.,San Pedro de Macoris,San Pedro de Macoris,,,,,,,Jorge,Polanco,Jorge Luis,200,71,B,R,26/06/14,02/10/16,polaj001,polanjo01
+profaju01,1993,2,20,Curacao,,Willemstad,,,,,,,Jurickson,Profar,Jurickson Barthelomeus,190,72,B,R,02/09/12,02/10/16,profj001,profaju01
+quinnro01,1993,5,14,USA,FL,Port St. Joe,,,,,,,Roman,Quinn,Roman Tredarian,170,70,B,R,11/09/16,27/09/16,quinr003,quinnro01
+reedaj01,1993,5,10,USA,IN,Terre Haute,,,,,,,A. J.,Reed,Andrew Joseph,275,76,L,L,25/06/16,02/10/16,reeda002,reedaj01
+reedco01,1993,4,15,USA,TN,Memphis,,,,,,,Cody,Reed,Cody Austin,225,77,L,L,18/06/16,14/08/16,reedc002,reedco01
+rodried05,1993,4,7,Venezuela,Carabobo,Valencia,,,,,,,Eduardo,Rodriguez,Eduardo Jose,220,74,L,L,28/05/15,01/10/16,rodre004,rodried05
+rossjo01,1993,5,21,USA,CA,Berkeley,,,,,,,Joe,Ross,Joseph Andrew,225,76,R,R,06/06/15,29/09/16,rossj002,rossjo01
+sanomi01,1993,5,11,D.R.,San Pedro de Macoris,San Pedro de Macoris,,,,,,,Miguel,Sano,Miguel Angel,260,76,R,R,02/07/15,02/10/16,sanom001,sanomi01
+sardilu01,1993,5,16,Venezuela,Bolivar,Upata,,,,,,,Luis,Sardinas,Luis Alexander,180,73,B,R,20/04/14,02/10/16,sardl001,sardilu01
+schwaky01,1993,3,5,USA,OH,Middletown,,,,,,,Kyle,Schwarber,Kyle Joseph,235,72,L,R,16/06/15,07/04/16,schwk001,schwaky01
+severpe01,1993,7,20,D.R.,Monsenor Nouel,Bonao,,,,,,,Pedro,Severino,Pedro,215,72,R,R,20/09/15,02/10/16,sevep001,severpe01
+smithma05,1993,5,6,USA,FL,Tallahassee,,,,,,,Mallex,Smith,Mallex Lydell,180,69,L,R,11/04/16,02/10/16,smitm007,smithma05
+stephro01,1993,2,24,USA,CA,Martinez,,,,,,,Robert,Stephenson,Robert William,200,74,R,R,07/04/16,02/10/16,stepr002,stephro01
+torrejo02,1993,9,24,Venezuela,Distrito Federal,Caracas,,,,,,,Jose,Torres,Jose Marcos,175,74,L,L,22/09/16,29/09/16,torrj001,torrejo02
+turnetr01,1993,6,30,USA,FL,Boynton Beach,,,,,,,Trea,Turner,Trea Vance,185,73,R,R,21/08/15,02/10/16,turnt001,turnetr01
+weavelu01,1993,8,21,USA,FL,DeLand,,,,,,,Luke,Weaver,Luke Allen,170,74,R,R,13/08/16,26/09/16,weavl001,weavelu01
+wendejb01,1993,3,24,USA,GA,Savannah,,,,,,,J. B.,Wendelken,Jeffrey Benjamin,220,72,R,R,08/05/16,15/09/16,wendj001,wendejb01
+ynoaga01,1993,5,26,D.R.,La Vega,La Vega,,,,,,,Gabriel,Ynoa,Gabriel,205,74,R,R,13/08/16,02/10/16,ynoag001,ynoaga01
+almoral01,1994,4,16,USA,FL,Hialeah,,,,,,,Albert,Almora,Reinaldo Albert,190,74,R,R,07/06/16,02/10/16,almoa002,almoral01
+arciaor01,1994,8,4,Venezuela,Anzoategui,Anaco,,,,,,,Orlando,Arcia,Orlando Jesus,165,72,R,R,02/08/16,02/10/16,arcio002,arciaor01
+beninan01,1994,7,6,USA,OH,Cincinnati,,,,,,,Andrew,Benintendi,Andrew S.,170,70,L,L,02/08/16,02/10/16,benia002,beninan01
+berrijo01,1994,5,27,P.R.,,Bayamon,,,,,,,Jose,Berrios,Jose Orlando,185,72,R,R,27/04/16,02/10/16,berrj001,berrijo01
+bregmal01,1994,3,30,USA,NM,Albuquerque,,,,,,,Alex,Bregman,Alexander David,180,72,R,R,25/07/16,28/09/16,brega001,bregmal01
+castrmi01,1994,12,24,D.R.,La Romana,La Romana,,,,,,,Miguel,Castro,Miguel Angel,190,77,R,R,06/04/15,24/06/16,castm002,castrmi01
+correca01,1994,9,22,P.R.,,Ponce,,,,,,,Carlos,Correa,Carlos Javier,215,76,R,R,08/06/15,01/10/16,corrc001,correca01
+dahlda01,1994,4,1,USA,AL,Birmingham,,,,,,,David,Dahl,David Martin,195,74,L,R,25/07/16,02/10/16,dahld001,dahlda01
+danisty01,1994,9,12,USA,FL,Brandon,,,,,,,Tyler,Danish,Tyler Michael,200,72,R,R,11/06/16,13/06/16,danit001,danisty01
+diazed04,1994,3,22,P.R.,,Naguabo,,,,,,,Edwin,Diaz,Edwin Orlando,195,75,R,R,06/06/16,01/10/16,diaze006,diazed04
+eflinza01,1994,4,8,USA,FL,Orlando,,,,,,,Zach,Eflin,Zachary Adams,215,78,R,R,14/06/16,08/08/16,efliz001,eflinza01
+giolilu01,1994,7,14,USA,CA,Santa Monica,,,,,,,Lucas,Giolito,Lucas Frost,255,78,R,R,28/06/16,26/09/16,gioll001,giolilu01
+herredi01,1994,3,3,Colombia,Bolivar,Cartagena,,,,,,,Dilson,Herrera,Dilson Jose,205,70,R,R,29/08/14,03/10/15,herrd002,herredi01
+kellyca02,1994,7,14,USA,IL,Chicago,,,,,,,Carson,Kelly,Carson Franklin,220,74,R,R,05/09/16,02/10/16,kellc002,kellyca02
+lopezre01,1994,1,4,D.R.,San Pedro de Macoris,San Pedro de Macoris,,,,,,,Reynaldo,Lopez,Reynaldo Starling,185,72,R,R,19/07/16,02/10/16,loper003,lopezre01
+margoma01,1994,9,28,D.R.,San Cristobal,San Cristobal,,,,,,,Manuel,Margot,Manuel,180,71,R,R,21/09/16,02/10/16,margm001,margoma01
+nunezre01,1994,4,4,Venezuela,Carabobo,Valencia,,,,,,,Renato,Nunez,Renato Rafael,220,73,R,R,12/09/16,28/09/16,nuner001,nunezre01
+odorro01,1994,2,3,Venezuela,Zulia,Maracaibo,,,,,,,Rougned,Odor,Rougned Roberto,195,71,L,R,08/05/14,01/10/16,odorr001,odorro01
+olsonma02,1994,3,29,USA,GA,Atlanta,,,,,,,Matt,Olson,Matthew Kent,230,77,L,R,12/09/16,02/10/16,olsom001,olsonma02
+paulida01,1994,2,6,D.R.,Peravia,Nizao,,,,,,,David,Paulino,David Confesor,215,79,R,R,08/09/16,30/09/16,pauld002,paulida01
+perazjo01,1994,4,30,Venezuela,Barinas,Barinas,,,,,,,Jose,Peraza,Jose Francisco,180,72,R,R,10/08/15,02/10/16,peraj003,perazjo01
+reyesal02,1994,8,29,USA,NJ,Elizabeth,,,,,,,Alex,Reyes,Alexander,175,75,R,R,09/08/16,29/09/16,reyea004,reyesal02
+rondojo02,1994,3,3,Venezuela,Aragua,Villa de Cura,,,,,,,Jose,Rondon,Jose Gregorio,195,73,R,R,29/07/16,09/08/16,rondj002,rondojo02
+ruizri01,1994,5,22,USA,CA,Covina,,,,,,,Rio,Ruiz,Rio Noble,230,73,L,R,18/09/16,29/09/16,ruizr002,ruizri01
+russead02,1994,1,23,USA,FL,Pensacola,,,,,,,Addison,Russell,Addison Warren,200,72,R,R,21/04/15,02/10/16,russa002,russead02
+seageco01,1994,4,27,USA,NC,Charlotte,,,,,,,Corey,Seager,Corey Drew,215,76,L,R,03/09/15,02/10/16,seagc001,seageco01
+severlu01,1994,2,20,D.R.,Hato Mayor,Sabana de la Mar,,,,,,,Luis,Severino,Luis,215,74,R,R,05/08/15,01/10/16,sevel001,severlu01
+swansda01,1994,2,11,USA,GA,Kennesaw,,,,,,,Dansby,Swanson,James Dansby,190,73,R,R,17/08/16,02/10/16,swand001,swansda01
+tapiara01,1994,2,4,D.R.,San Pedro de Macoris,San Pedro de Macoris,,,,,,,Raimel,Tapia,Raimel Antonio,160,74,L,L,02/09/16,02/10/16,tapir001,tapiara01
+thompja03,1994,1,31,USA,TX,Dallas,,,,,,,Jake,Thompson,Jacob Keith,235,76,R,R,06/08/16,25/09/16,thomj007,thompja03
+whalero01,1994,1,31,USA,PA,Stroudsburg,,,,,,,Robert,Whalen,Robert D.,220,74,R,R,03/08/16,24/08/16,whalr001,whalero01
+marquge01,1995,2,22,Venezuela,Bolivar,San Felix,,,,,,,German,Marquez,German Andres,185,73,R,R,08/09/16,02/10/16,marqg001,marquge01
+mazarno01,1995,4,26,D.R.,Distrito Nacional,Santo Domingo,,,,,,,Nomar,Mazara,Nomar Shamir,215,76,L,L,10/04/16,02/10/16,mazan001,mazarno01
+mendeyo01,1995,1,17,Venezuela,Carabobo,Valencia,,,,,,,Yohander,Mendez,Yohander Manuel,200,77,L,L,05/09/16,17/09/16,mendy001,mendeyo01
+moncayo01,1995,5,27,Cuba,,Abreus,,,,,,,Yoan,Moncada,Yoan Manuel,205,74,B,R,02/09/16,12/09/16,moncy001,moncayo01
+mondera02,1995,7,27,USA,CA,Los Angeles,,,,,,,Raul,Mondesi,Raul Adalberto,185,73,B,R,26/07/16,30/09/16,mondr003,mondera02
+osunaro01,1995,2,7,Mexico,Sinaloa,Juan Jose Rios,,,,,,,Roberto,Osuna,Roberto,215,74,R,R,08/04/15,02/10/16,osunr001,osunaro01
+uriasju01,1996,8,12,Mexico,Sinaloa,Culiacan,,,,,,,Julio,Urias,Julio Cesar,215,72,L,L,27/05/16,29/09/16,uriaj001,uriasju01
+barre01,,,,USA,NY,Brooklyn,,,,,,,John,Barrett,John,,,,,1872-09-18,1872-10-31,barru101,barre01
+barrebi01,,,,USA,MD,Baltimore,,,,,,,Bill,Barrett,William,,,,,1871-07-08,1873-10-18,barrb102,barrebi01
+besti01,,,,USA,NY,New York,,,,,,,William,Bestick,William,,,,,1872-06-20,1872-07-09,bestu101,besti01
+bolan01,,,,,,,,,,,,,,Boland,,,,,,1875-09-04,1875-09-04,bolau101,bolan01
+booth01,,,,,,,,,,,,,,Booth,,,,,,1875-05-01,1875-05-01,bootu101,booth01
+boothed01,,,,USA,NY,Brooklyn,,,,,,,Eddie,Booth,Edward H.,,,,,1872-04-26,1876-10-17,boote101,boothed01
+brown01,,,,,,,,,,,,,Robert,Brown,Robert,,,,,1874-07-29,1874-08-31,browu101,brown01
+browned01,,,,USA,IL,Chicago,,,,,,,Ed,Brown,Edward P.,178,,,R,1882-08-19,1884-06-30,browe103,browned01
+burkeja01,,,,USA,MA,Attleboro,,,,,,,James,Burke,James,,,,,1882-06-10,1884-09-15,burkj105,burkeja01
+burnsji01,,,,USA,MO,St. Louis,1909,2,17,USA,IL,Chicago,Jim,Burns,James Milton,168,67,R,,1888-09-25,1891-05-22,burnj106,burnsji01
+burtfr01,,,,USA,NJ,Camden,,,,,,,Frank,Burt,Frank J.,,,,,1882-05-02,1882-05-30,burtf101,burtfr01
+callapa01,,,,USA,NY,New York,,,,,,,Pat,Callaghan,Patrick J.,160,68,,,1884-05-01,1884-07-31,callp101,callapa01
+campbsa01,,,,USA,PA,Philadelphia,,,,,,,Sam,Campbell,Samuel,,,,,1890-10-11,1890-10-11,camps101,campbsa01
+carroch01,,,,,,,,,,,,,,Carroll,,,,,,1884-04-17,1884-04-21,carrc101,carroch01
+caseybi01,,,,,,,,,,,,,Tommy,Casey,Tommy,,,,L,1887-08-17,1887-08-17,caseb101,caseybi01
+childbi01,,,,USA,MO,St. Louis,,,,,,,Bill,Childers,William,,,,,1895-07-27,1895-07-27,chilb101,childbi01
+colgaed01,,,,USA,IL,East St. Louis,1895,8,8,USA,MT,Great Falls,Ed,Colgan,William H.,180,,,,1884-05-03,1884-10-15,colge101,colgaed01
+connoje01,,,,USA,OH,Cleveland,,,,,,,Jerry,Connors,Jeremiah,,,,,1892-07-11,1892-07-11,connj103,connoje01
+connore01,,,,,,,,,,,,,Red,Connally,John M.,,,B,,1886-07-01,1886-07-06,connr101,connore01
+coughed01,,,,,,,,,,,,,Ed,Coughlin,Edward E.,,,,,1884-05-15,1884-05-15,couge101,coughed01
+crawfge01,,,,,,,,,,,,,George,Crawford,George,,,,,1890-10-08,1890-10-12,crawg102,crawfge01
+dillojo01,,,,USA,MO,St. Louis,,,,,,,John,Dillon,John,,,,,1875-05-08,1875-05-08,dillj101,dillojo01
+donnepe01,,,,,,,,,,,,,Pete,Donnelly,Peter J.,,,,,1871-05-13,1871-07-08,donnp101,donnepe01
+drewda01,,,,,,,,,,,,,Dave,Drew,David,,,,,1884-05-14,1884-06-09,drewd101,drewda01
+dwyerjo01,,,,USA,IL,Lisbon,,,,,,,John,Dwyer,John E.,,,,,1882-05-16,1882-05-16,dwyej102,dwyerjo01
+edwar01,,,,,,,,,,,,,,Edwards,,,,,,1875-09-11,1875-09-11,edwau101,edwar01
+evans01,,,,,,,,,,,,,,Evans,,,,,,1875-06-01,1875-06-01,evanu101,evans01
+faginfr01,,,,USA,OH,Cincinnati,,,,,,,Joe,Fagin,Joseph,,,,,1895-06-25,1895-06-25,fagif101,faginfr01
+farrebi01,,,,USA,CT,Bridgeport,,,,,,,Bill,Farrell,William,,,,,1882-05-03,1883-05-21,farrb101,farrebi01
+fishech03,,,,USA,MD,Baltimore,,,,,,,Charles,Fisher,Charles,,,,,1889-06-15,1889-06-15,fishc105,fishech03
+frank01,,,,,,,,,,,,,,Franklin,,,,,,1884-09-27,1884-09-27,franu101,frank01
+gaver01,,,,,,,,,,,,,,Gavern,,,,,,1874-06-15,1874-06-15,gaveu101,gaver01
+geerbi01,,,,,,,,,,,,,Billy,Geer,William Henry Harrison,160,68,,R,1874-10-15,1885-05-10,geerb101,geerbi01
+gormato04,,,,USA,MO,St. Louis,,,,,,,Thomas,Gorman,Thomas,,,L,L,1884-06-10,1884-07-25,grayr101,gormato04
+haleyfr01,,,,,,,,,,,,,James,Haley,James,,,,R,1880-06-22,1880-07-23,halef101,haleyfr01
+hallal01,,,,USA,MA,Worcester,1885,2,10,USA,PA,Warren,Al,Hall,Archibald W.,,,,,1879-05-01,1880-05-13,halla101,hallal01
+hallji01,,,,,,,,,,,,,Jim,Hall,James,,,,,1872-05-20,1875-05-21,hallj103,hallji01
+harribe01,,,,,,,,,,,,,,Harrison,,,,,,27/09/01,27/09/01,harrb113,harribe01
+helli01,,,,USA,PA,Philadelphia,,,,,,,,Hellings,,,,,,1875-07-19,1875-07-19,hellu101,helli01
+higby01,,,,,,,,,,,,,,Higby,,,,,,1872-09-18,1872-09-18,higbu101,higby01
+hilde01,,,,,,,,,,,,,,Hillebrand,,,,,,29/08/02,29/08/02,hildr101,hilde01
+horanjo01,,,,,,,,,,,,,Patrick,Horan,Patrick J.,160,70,,R,1884-05-17,1884-07-14,horaj101,horanjo01
+howesh01,,,,USA,NY,New York,,,,,,,Shorty,Howe,John,,,,,1890-06-17,1893-06-20,howes101,howesh01
+jacobha01,,,,USA,PA,Philadelphia,1900,7,22,USA,PA,Philadelphia,Harry,Jacoby,Harry M.,,,,,1882-05-02,1885-09-19,jacoh101,jacobha01
+johnsab01,,,,USA,IL,Chicago,,,,,,,Abe,Johnson,Abraham,,,,,1893-07-16,1893-07-16,johna106,johnsab01
+jones02,,,,USA,PA,Johnstown,,,,,,,,Jones,,,,,,1884-07-14,1884-07-18,joneu102,jones02
+jones03,,,,,,,,,,,,,,Jones,,,,,,1885-04-30,1885-04-30,joneu103,jones03
+jonesbi01,,,,USA,NY,Syracuse,,,,,,,Bill,Jones,William,,,,,1882-05-17,1884-07-23,joneb102,jonesbi01
+kavan01,,,,,,,,,,,,,James,Cavanagh,James,,,,,1872-09-11,1872-09-19,kavau101,kavan01
+kellybi01,,,,USA,NY,New York,,,,,,,Bill,Kelly,William J.,150,67,,,1871-05-04,1871-08-29,kellb105,kellybi01
+kernajo01,,,,USA,MD,Baltimore,,,,,,,Joe,Kernan,Joseph,,,,,1873-04-14,1873-04-15,kernj101,kernajo01
+lanech01,,,,USA,PA,Pittsburgh,1901,10,9,USA,PA,Philadelphia,Chappy,Lane,George M.,165,,R,,1882-05-16,1884-09-09,lanec101,lanech01
+larki01,,,,,,,,,,,,,P.,Larkin,P.,,,,,1884-05-29,1884-07-16,larku101,larki01
+laughbe01,,,,,,,,,,,,,Ben,Laughlin,Benjamin,,,,,1873-04-28,1873-08-07,laugb101,laughbe01
+ledwimi01,,,,USA,NY,Brooklyn,,,,,,,Mike,Ledwith,Michael,,,,,1874-08-19,1874-08-19,ledwm101,ledwimi01
+leona01,,,,,,,,,,,,,,Leonard,,,,,,1892-09-12,1892-09-12,leonu101,leona01
+lewis01,,,,USA,NY,Brooklyn,,,,,,,,Lewis,,,,,,1890-07-12,1890-07-12,lewiu101,lewis01
+lowech01,,,,USA,MD,Baltimore,,,,,,,Charlie,Lowe,Charles,,,,,1872-09-24,1872-10-31,lowec101,lowech01
+lowryjo01,,,,USA,MD,Baltimore,,,,,,,John,Lowry,John D.,,,,,1875-06-26,1875-07-04,lowrj101,lowryjo01
+macey01,,,,USA,OH,Columbus,,,,,,,,Macey,,,,,,1890-10-02,1890-10-02,maceu101,macey01
+maherto01,,,,,,,,,,,,,Tom,Maher,Thomas Francis,,,,,24/04/02,26/04/02,mahet101,maherto01
+malonjo01,,,,,,,,,,,,,John,Maloney,John,,,,,1876-09-15,1877-08-28,maloj101,malonjo01
+malonma01,,,,,,,,,,,,,Martin,Malone,Martin,,,,,1872-06-20,1872-09-13,malom101,malonma01
+matthbo01,,,,USA,NJ,Camden,,,,,,,Charles,Matthews,Charles,,,,,1891-09-25,1891-09-25,mattb102,matthbo01
+mcbrijo01,,,,,,,,,,,,,,McBride,,,,,,1890-10-12,1890-10-12,mcbrj101,mcbrijo01
+mcdoo01,,,,,,,,,,,,,,McDoolan,,,,,,1873-04-14,1873-04-14,mcdou101,mcdoo01
+mcgarda01,,,,,,,,,,,,,Dan,McGarvey,Daniel Francis,,,R,,18/05/12,18/05/12,mcgad101,mcgarda01
+mcgeepa01,,,,,,,1889,6,20,USA,NY,New York,Pat,McGee,Patrick,,,,,1874-09-24,1875-09-17,mcgep102,mcgeepa01
+mcgui01,,,,,,,,,,,,,Thomas,Maguire,Thomas,,,,L,1894-06-16,1894-06-16,mcguu101,mcgui01
+mckeefr01,,,,USA,PA,Philadelphia,,,,,,,Frank,McKee,Frank,,,,,1884-06-11,1884-07-03,mckef101,mckeefr01
+mckened01,,,,USA,MO,St. Louis,,,,,,,Ed,McKenna,Edward J.,,,,,1874-07-29,1884-07-05,mckee103,mckened01
+mckenfr01,,,,,,,,,,,,,Frank,McKenna,Frank,,,,,,,mckee102,mckenfr01
+mcmulge01,,,,USA,CA,,,,,,,,James,McMullin,James,,,,,1887-07-02,1887-07-10,mcmug101,mcmulge01
+mcrem01,,,,,,,,,,,,,,McRemer,,,,,,1884-06-20,1884-06-20,mcreu101,mcrem01
+milleed01,,,,USA,MI,Tecumseh,,,,,,,Ed,Miller,L. Edward,,,,,1884-07-18,1884-08-02,mille106,milleed01
+monrofr01,,,,USA,OH,Hamilton,,,,,,,Frank,Monroe,Frank W.,,,,,1884-07-18,1884-07-20,monrf101,monrofr01
+mooremo01,,,,,,,,,,,,,Molly,Moore,Maurice,,,,R,1875-06-30,1875-10-09,moorm101,mooremo01
+morrie01,,,,USA,NJ,Trenton,,,,,,,James,Morris,James A.,,,,,1884-09-11,1884-09-11,morre103,morrie.01
+mullejo01,,,,USA,PA,Philadelphia,,,,,,,John,Mullen,John,,,L,L,1876-09-09,1876-09-09,mullj104,mullejo01
+mullijo01,,,,USA,PA,Philadelphia,,,,,,,John,Mulligan,John,,,,,1884-06-14,1884-06-14,mullj105,mullijo01
+murph01,,,,,,,,,,,,,,Murphy,,,,,,1884-08-16,1884-08-16,murpu102,murph01
+murphcl01,,,,,,,,,,,,,Clarence,Murphy,Clarence,,,,,1886-06-17,1886-06-17,murpc103,murphcl01
+odonnjo01,,,,USA,PA,Littlestown,,,,,,,John,O'Donnell,John,,,,,1884-07-16,1884-07-16,odonj102,o'donjo01
+oneal01,,,,USA,CT,Hartford,,,,,,,Fancy,O'Neil,Michael,,,,,1874-10-23,1874-10-23,oneau101,o'nea01
+oneilj01,,,,USA,NY,Brooklyn,,,,,,,Hugh,O'Neil,Hugh,,,,,1875-08-20,1875-10-09,oneiu101,o'neij.01
+oneiljo01,,,,USA,NY,New York,,,,,,,John,O'Neill,John J.,,,,R,1899-09-06,05/09/02,oneij103,o'neijo01
+orour01,,,,,,,,,,,,,,O'Rourke,,,,,,1872-07-09,1872-07-09,orouu101,o'rou01
+palme01,,,,USA,MO,St. Louis,,,,,,,Billy,Palmer,Billy,,,,,1885-05-28,1885-06-03,palmu101,palme01
+pattige01,,,,,,,,,,,,,George,Patterson,George,,,,,1884-04-24,1884-04-26,pattg103,pattige01
+paullo01,,,,,,,,,,,,,Lou,Paul,Louis,,,R,R,1876-09-05,1876-09-08,paull101,paullo01
+pricebi01,,,,USA,PA,Philadelphia,,,,,,,Bill,Price,William,,,,,1890-04-27,1890-04-27,pricw101,pricebi01
+quinl01,,,,,,,,,,,,,,Quinlan,,,,,,1874-09-07,1874-09-07,quinu101,quinl01
+quinnjo01,,,,,,,,,,,,,Joseph,Quinn,Joseph,,,,,1881-09-07,1881-09-27,quinp101,quinnjo01
+quinnpa01,,,,,,,,,,,,,,Quinn,,162,68,,,1875-09-09,1875-09-17,quinp102,quinnpa01
+revilhe01,,,,USA,MD,Baltimore,,,,,,,Henry,Reville,Henry,,,,,1874-10-14,1874-10-14,revih101,revilhe01
+richa01,,,,USA,MA,Boston,,,,,,,,Richardson,,136,64,,,1884-07-10,1884-07-10,richu101,richa01
+rittech01,,,,,,,,,,,,,Charlie,Ritter,Charles J.,,,,,1885-09-21,1885-09-23,rittc101,rittech01
+ryanjo02,,,,USA,MI,Birmingham,,,,,,,John,Ryan,John A.,,,L,R,1884-06-11,1884-08-27,ryanj101,ryanjo02
+schapjo01,,,,USA,NY,Brooklyn,1917,7,27,USA,NY,Brooklyn,John,Schappert,John,170,70,R,R,1882-05-03,1882-07-06,schaj103,schapjo01
+schuljo01,,,,USA,NJ,Burlington,,,,,,,John,Schultz,John F.,165,72,,,1891-05-06,1891-06-11,schuj102,schuljo01
+scott01,,,,,,,,,,,,,,Scott,,,,,,1884-07-16,1884-08-05,scotu101,scott01
+shaff01,,,,,,,,,,,,,,Shaffer,,,,,,1875-09-15,1875-09-15,shafu101,shaff01
+sheppjo01,,,,USA,MD,Baltimore,,,,,,,John,Sheppard,John,,,,,1873-06-27,1873-07-11,shepj101,sheppjo01
+sheri01,,,,,,,,,,,,,,Sheridan,,,,,,1875-10-09,1875-10-09,sheru101,sheri01
+simpsma01,,,,USA,MD,Baltimore,,,,,,,Marty,Simpson,Martin,,,,,1873-05-14,1873-07-11,simpm101,simpsma01
+skinnal01,,,,,,,,,,,,,Al,Skinner,Alexander,,,,,1884-07-12,1884-07-16,skina101,skinnal01
+smith01,,,,,,,,,,,,,,Smith,,,,,,1884-06-05,1884-06-05,smitu101,smith01
+smithbi01,,,,USA,MD,Baltimore,,,,,,,Bill,Smith,William J.,,,,,1873-04-14,1873-07-11,smitb113,smithbi01
+smithed05,,,,,,,,,,,,,Ed,Smith,Ed,,,,,1884-04-18,1884-05-22,smite110,smithed05
+smithjo01,,,,USA,MD,Baltimore,,,,,,,John,Smith,John,,,,,1873-04-14,1875-05-21,smitj105,smithjo01
+spenc01,,,,,,,,,,,,,,Spencer,,,,,,1872-06-03,1872-06-03,spenu101,spenc01
+staffbo01,,,,,,,,,,,,,,Stafford,,,,,,1890-10-12,1890-10-12,stafb102,staffbo01
+stanljo01,,,,USA,NJ,,,,,,,,Joe,Stanley,Joseph,,,,,1884-04-24,1884-06-18,stanj104,stanljo01
+stapljo01,,,,USA,NY,Buffalo,1923,7,10,USA,NY,Buffalo,Joe,Stabell,Joseph F.,,71,,,1885-09-19,1885-09-29,stapj101,stapljo01
+sterljo01,,,,,,,,,,,,,,Sterling,,,,,,1890-10-12,1890-10-12,sterj101,sterljo01
+stineha01,,,,,,,,,,,,,William,Stein,William,,,,L,,,stinh101,stineha01
+stodd01,,,,,,,,,,,,,,Stoddard,,,,,,1875-09-25,1875-10-09,stodu101,stodd01
+sulli01,,,,USA,RI,Bristol,,,,,,,,Sullivan,,,,,,1875-05-15,1875-05-17,sullu101,sulli01
+sulliwi01,,,,USA,MO,St. Louis,,,,,,,William,Sullivan,William,,,,,,,sullw101,sulliwi01
+sweigha01,,,,,,,,,,,,,,Sweigert,,,,,,1890-10-12,1890-10-12,sweih101,sweigha01
+thomafr99,,,,USA,IN,,,,,,,,Fred,Thomas,Frederick L.,,,,,,,thomf801,thomafr99
+thompan01,,,,,,,,,,,,,,Thompson,,,,,,1875-04-26,1875-05-17,thoma103,thompan01
+thompar01,,,,,,,,,,,,,Art,Thompson,Arthur J.,,,,,1884-06-17,1884-06-17,thoma102,thompar01
+thompfr01,,,,,,,,,,,,,Frank,Thompson,Frank,,,,,1875-09-11,1875-09-11,thomu101,thompfr01
+valenbo01,,,,,,,,,,,,,Bob,Valentine,Robert,,,,,1876-05-20,1876-05-20,valeb103,valenbo01
+wardjo02,,,,USA,DC,Washington,,,,,,,John,Ward,John E.,,,,,1884-05-23,1884-05-23,wardj104,wardjo02
+williwa01,,,,USA,PA,Philadelphia,,,,,,,Wash,Williams,Washington J.,180,71,,,1884-08-05,1885-06-08,willw102,williwa01
+wills01,,,,,,,,,,,,,,Wills,,,,,,1884-05-14,1884-07-25,willu101,wills01
+wood01,,,,,,,,,,,,,,Wood,,,,,,1874-09-30,1874-09-30,woodu101,wood01
+wrighbi01,,,,,,,,,,,,,Bill,Wright,William Hiram,,,,,1887-09-16,1887-09-16,wrigb102,wrighbi01
+yostgu01,,,,,,,,,,,,,Gus,Yost,August,,77,,,1893-06-12,1893-06-12,yostg101,yostgu01
+zay01,,,,USA,PA,Pittsburgh,,,,,,,William,Zay,William,,,,,1886-10-07,1886-10-07,zay-u101,zay01
