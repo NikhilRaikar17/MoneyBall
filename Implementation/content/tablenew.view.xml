@@ -1,0 +1,54 @@
+<mvc:View controllerName="content.tablenew" 
+xmlns="sap.m"  
+xmlns:mvc="sap.ui.core.mvc"  
+xmlns:table="sap.ui.table"  
+xmlns:l="sap.ui.commons.layout" 
+xmlns:html="http://www.w3.org/1999/xhtml">
+<!-- view content goes here -->  
+<!-- this HTML paragraph is used as a spacer --> 
+<html:p/>   
+<!-- This is the text that we want to show -->
+<table:Table  
+id="fieldTable"
+visibleRowCount="20"  
+selectionMode="Single"  
+navigationMode="Paginator"  
+editable="false"
+rows="{/KMEANS}">  
+<!-- this defines one column in the table. The property
+"sortProperty" defines the column of the data source on  
+which the column will sort --> 
+<table:Column >   
+<!-- the label is shown in the header of the table -->
+<table:label>  
+<Label text="Player_ID" design="Bold"/>
+</table:label>  
+<!-- for each column, a template is required which 
+defines how how the data is visualized -->  
+<table:template>   
+<!-- this label defines the actual content (aka the    
+rows) that are shown in the table. here, we bind the 
+column PLAYER_ID of the data source   
+to this table column -->   
+<Label text="{playerID}"/> 
+</table:template>  
+</table:Column> 
+
+<table:Column sortProperty="AggWeightedAvg">   
+<!-- the label is shown in the header of the table -->
+<table:label>  
+<Label text="Weighted Average" design="Bold"/>
+</table:label>  
+<!-- for each column, a template is required which 
+defines how how the data is visualized -->  
+<table:template>   
+<!-- this label defines the actual content (aka the    
+rows) that are shown in the table. here, we bind the 
+column Weighted Average of the data source   
+to this table column -->   
+<Label text="{AggWeightedAvg}"/> 
+</table:template>  
+</table:Column> 
+
+</table:Table> 
+</mvc:View> 

@@ -1,0 +1,18 @@
+service {
+    "gbi-student-015::FeatureAll"as "MoneyBall"
+    key("playerID")
+    aggregates always; 
+
+    "gbi-student-015::FeatureAllExp"as "MoneyBallAll"
+    key("playerID")
+    aggregates always; 
+    
+    "gbi-student-015::ABCSAP"as "ABC"
+    key("playerID")
+    aggregates always; 
+    
+     "gbi-student-015::KMEANSCV"as "KMEANS"
+    key("playerID")
+    aggregates always; 
+    
+} 
